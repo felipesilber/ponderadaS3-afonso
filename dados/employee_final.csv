@@ -1,0 +1,921 @@
+id_employee,name,surname,cpf,status,role,initial_date,end_date,store_id
+643,Antonella,da Cruz,938.507.461-00,ativo,gerente,14/12/2007,,MG_21
+924,Carlos Eduardo,Alves,501.639.827-59,ativo,vendedor,29/09/2014,,MG_21
+567,Ana Sophia,Ramos,980.413.526-42,ativo,vendedor,03/04/2006,,MG_21
+660,Marcela,Brito,859.163.742-91,ativo,vendedor,14/03/2003,,MG_21
+297,Leonardo,Porto,652.341.890-15,ativo,vendedor,27/06/2021,,MG_23
+523,Heitor,Sales,472.395.061-34,ativo,vendedor,11/09/2021,,MG_23
+264,Igor,Gonçalves,407.395.126-25,ativo,vendedor,12/08/2002,,MG_23
+834,Luara,Mendonça,126.579.348-46,ativo,gerente,25/03/2007,,MG_23
+693,Samuel,Moreira,164.839.752-28,ativo,vendedor,08/10/2007,,MG_24
+417,Olívia,Gonçalves,692.451.370-07,ativo,vendedor,02/02/2013,,MG_24
+450,Liz,Almeida,394.058.761-39,ativo,gerente,30/03/2018,,MG_24
+900,Anthony,Ribeiro,045.328.916-98,ativo,vendedor,29/10/2024,,MG_24
+898,João Pedro,Lima,712.095.843-79,ativo,vendedor,28/09/2015,,MG_26
+292,Ana Julia,Jesus,603.742.198-69,ativo,vendedor,25/12/2011,,MG_26
+990,Luísa,Aparecida,718.542.639-19,ativo,vendedor,29/09/2007,,MG_26
+246,Liam,Borges,019.678.543-00,ativo,gerente,18/11/2010,,MG_26
+837,Anthony Gabriel,Sá,948.561.307-57,ativo,vendedor,03/11/2005,,MG_29
+766,Vitor Gabriel,Leão,296.154.038-06,ativo,vendedor,22/06/2024,,MG_29
+665,Stella,Sá,096.218.357-12,ativo,vendedor,15/07/2008,,MG_29
+130,Benjamim,Pimenta,726.904.158-01,ativo,gerente,03/02/2017,,MG_29
+692,Pedro Lucas,Rocha,618.203.954-05,ativo,gerente,19/06/2005,,MG_34
+47,Bárbara,Sales,751.648.293-55,ativo,vendedor,15/06/2012,,MG_34
+178,Maria Fernanda,Marques,756.931.420-43,ativo,vendedor,18/04/2009,,MG_34
+805,Davi Lucca,Leão,546.801.923-05,ativo,vendedor,31/08/2013,,MG_34
+536,Rael,Gonçalves,350.842.619-05,ativo,gerente,28/02/2021,,MG_36
+273,Emilly,Vasconcelos,809.145.237-32,ativo,vendedor,05/05/2019,,MG_36
+628,João Guilherme,Aparecida,387.921.065-95,ativo,vendedor,03/12/2022,,MG_36
+317,João Guilherme,Dias,382.904.765-74,ativo,vendedor,11/11/2008,,MG_36
+503,Davi Miguel,Campos,051.876.942-94,ativo,gerente,11/02/2017,,MG_37
+688,Caroline,Vargas,904.176.832-78,ativo,vendedor,07/09/2011,,MG_37
+661,Rodrigo,da Cruz,385.627.941-55,ativo,vendedor,17/10/2014,,MG_37
+705,Hellena,Aragão,087.293.651-12,ativo,vendedor,15/04/2021,,MG_37
+722,Larissa,Costa,258.146.379-19,ativo,vendedor,12/10/2015,,MG_39
+543,Sophie,Ferreira,354.762.901-25,ativo,vendedor,25/06/2024,,MG_39
+986,Antonella,Cirino,026.714.359-16,ativo,vendedor,16/11/2021,,MG_39
+146,Benício,Mendonça,832.079.654-74,não ativo,vendedor,04/07/2011,15/02/2023,MG_39
+31,Brenda,da Cruz,124.839.650-24,ativo,gerente,05/03/2009,,MG_39
+794,Nicolas,Ramos,752.106.849-11,ativo,vendedor,07/09/2004,,MG_5
+436,Cauê,Pires,963.250.817-30,ativo,vendedor,06/01/2006,,MG_5
+833,Ana Lívia,Ramos,831.720.645-90,ativo,vendedor,18/06/2023,,MG_5
+320,Eloah,Cavalcanti,184.297.503-04,ativo,gerente,22/09/2003,,MG_5
+816,Maria Luísa,Mendonça,548.210.976-30,não ativo,vendedor,07/04/2006,21/04/2024,MG_5
+703,Ian,Pinto,238.601.947-04,ativo,vendedor,10/09/2016,,MG_54
+992,Esther,Marques,392.674.058-29,ativo,vendedor,17/02/2009,,MG_54
+18,Laura,Vieira,418.637.092-31,ativo,vendedor,27/04/2024,,MG_54
+823,Mirella,Monteiro,124.056.739-16,ativo,gerente,07/10/2011,,MG_54
+6,Lavínia,Lopes,437.658.290-56,não ativo,vendedor,16/06/2005,02/08/2024,MG_54
+141,Raquel,Macedo,901.378.654-57,não ativo,vendedor,18/02/2014,27/10/2021,MG_54
+421,Ana Liz,Nascimento,486.592.173-73,ativo,gerente,15/03/2018,,MG_70
+276,Matheus,Freitas,856.409.713-39,ativo,vendedor,18/02/2015,,MG_70
+95,Kevin,Borges,269.754.803-38,ativo,vendedor,06/02/2006,,MG_70
+202,Lucas Gabriel,Macedo,708.356.941-00,ativo,vendedor,19/03/2021,,MG_70
+157,Ana Beatriz,Andrade,976.238.504-74,ativo,vendedor,24/09/2015,,MG_80
+51,Vitor Hugo,Lima,716.583.409-57,ativo,vendedor,05/09/2008,,MG_80
+570,Nathan,Fonseca,719.286.530-30,ativo,vendedor,24/01/2015,,MG_80
+845,José Pedro,Pastor,186.390.742-40,ativo,gerente,18/02/2004,,MG_80
+159,Hellena,Dias,385.402.971-32,ativo,gerente,20/09/2010,,PR_11
+227,Luiz Miguel,Moraes,039.412.786-22,não ativo,vendedor,22/04/2000,11/11/2003,PR_11
+200,Theo,Ferreira,201.968.734-87,ativo,vendedor,21/09/2006,,PR_11
+236,Laís,Fonseca,854.970.612-49,ativo,vendedor,02/04/2003,,PR_11
+615,Ana,Castro,947.013.562-80,ativo,vendedor,23/05/2007,,PR_11
+647,Gael,Siqueira,695.128.037-12,ativo,gerente,07/01/2010,,PR_13
+657,Eloá,Carvalho,413.087.526-44,não ativo,vendedor,15/10/2022,13/03/2024,PR_13
+952,Luiz Henrique,Nascimento,907.654.183-39,ativo,vendedor,11/08/2013,,PR_13
+83,Giovanna,Fernandes,490.231.876-87,ativo,vendedor,20/10/2017,,PR_13
+825,Olívia,Borges,879.236.105-68,não ativo,vendedor,07/12/2012,26/11/2022,PR_13
+723,Thales,Moraes,489.360.175-00,ativo,vendedor,10/09/2000,,PR_13
+799,Sophie,Gonçalves,931.465.270-06,ativo,vendedor,26/03/2021,,PR_15
+923,Theo,Machado,958.206.741-11,ativo,vendedor,18/03/2012,,PR_15
+685,Asafe,Garcia,105.938.726-30,ativo,vendedor,30/07/2022,,PR_15
+263,Ravi Lucca,Freitas,096.354.781-00,ativo,gerente,20/02/2021,,PR_15
+318,Rodrigo,da Rocha,926.087.413-04,ativo,vendedor,01/04/2017,,PR_2
+102,Bárbara,Cassiano,120.765.983-59,ativo,vendedor,28/10/2013,,PR_2
+826,João Lucas,da Paz,096.571.284-20,ativo,gerente,19/07/2008,,PR_2
+392,André,Macedo,539.241.068-51,ativo,vendedor,21/09/2016,,PR_2
+838,Gael Henrique,Costa,491.830.765-57,não ativo,vendedor,06/10/2009,10/06/2010,PR_23
+55,Davi,Borges,485.609.127-11,ativo,vendedor,28/01/2017,,PR_23
+582,Melina,Machado,957.821.436-73,ativo,vendedor,23/10/2021,,PR_23
+674,Mariana,Barbosa,238.497.561-73,ativo,gerente,07/06/2019,,PR_23
+301,Maria Sophia,Sousa,786.401.259-02,não ativo,vendedor,30/10/2007,09/02/2013,PR_23
+422,Alice,Barbosa,203.758.941-79,ativo,vendedor,23/03/2017,,PR_23
+215,Théo,Aragão,812.690.375-95,não ativo,vendedor,17/02/2013,16/04/2014,PR_23
+331,Sofia,Monteiro,976.301.825-03,não ativo,vendedor,05/12/2002,21/07/2017,PR_28
+111,Enzo Gabriel,Sampaio,091.438.652-24,ativo,vendedor,22/03/2013,,PR_28
+574,Eduardo,Ramos,820.465.971-76,ativo,vendedor,13/02/2024,,PR_28
+199,Otto,Silva,890.743.562-65,ativo,vendedor,08/12/2016,,PR_28
+700,Ísis,Costa,962.734.185-19,ativo,gerente,22/08/2024,,PR_28
+921,Ana Cecília,da Costa,460.587.213-26,não ativo,vendedor,24/03/2003,10/05/2005,PR_28
+635,Luiz Felipe,Macedo,269.538.410-60,ativo,vendedor,23/05/2005,,PR_29
+550,Pedro Henrique,Carvalho,927.301.846-78,ativo,vendedor,13/07/2019,,PR_29
+11,João Guilherme,da Cruz,501.762.394-99,ativo,vendedor,01/12/2007,,PR_29
+712,Bárbara,da Costa,053.197.246-16,ativo,gerente,25/05/2006,,PR_29
+380,Ísis,Barbosa,956.813.027-68,ativo,vendedor,30/09/2014,,PR_33
+92,Davi Miguel,Vargas,813.042.967-50,não ativo,vendedor,02/09/2019,27/09/2020,PR_33
+315,João Lucas,Caldeira,047.823.156-35,ativo,gerente,05/09/2012,,PR_33
+428,Maria Luiza,Fonseca,708.126.394-13,ativo,vendedor,05/07/2000,,PR_33
+581,Ryan,Martins,734.865.290-56,ativo,vendedor,05/12/2012,,PR_33
+37,Antony,Porto,520.498.367-83,ativo,vendedor,28/07/2023,,PR_38
+849,Luara,Sá,143.290.876-69,ativo,gerente,19/06/2010,,PR_38
+934,Alexandre,Carvalho,326.741.859-37,ativo,vendedor,03/03/2018,,PR_38
+950,Henry,da Mota,943.085.672-38,ativo,vendedor,19/01/2023,,PR_38
+321,Miguel,Moura,487.139.520-05,ativo,vendedor,12/01/2009,,PR_4
+763,Pietra,Cassiano,185.769.304-39,ativo,gerente,18/10/2001,,PR_4
+843,Antônio,Abreu,492.075.863-47,ativo,vendedor,04/01/2019,,PR_4
+313,Fernanda,Moraes,610.472.395-07,não ativo,vendedor,13/07/2005,10/04/2007,PR_4
+447,Luana,Jesus,870.239.165-12,ativo,vendedor,18/11/2005,,PR_4
+621,André,Monteiro,629.017.453-34,ativo,vendedor,17/08/2021,,PR_47
+167,Lucas Gabriel,Souza,827.015.496-20,ativo,vendedor,15/08/2000,,PR_47
+154,Lavínia,Silveira,376.591.408-84,ativo,gerente,05/01/2013,,PR_47
+149,Isis,Jesus,974.138.025-97,ativo,vendedor,23/12/2016,,PR_47
+112,Marcos Vinicius,Jesus,016.258.397-40,ativo,vendedor,06/12/2024,,PR_54
+945,Ravi Lucca,Albuquerque,763.409.158-84,ativo,vendedor,28/12/2011,,PR_54
+426,Alexandre,Aragão,641.537.289-00,ativo,gerente,17/03/2021,,PR_54
+364,Maitê,Fogaça,864.931.507-01,ativo,vendedor,29/04/2011,,PR_54
+841,Giovanna,Ferreira,824.673.501-26,não ativo,vendedor,08/05/2011,28/04/2023,PR_68
+964,Gustavo Henrique,Pinto,230.841.956-33,ativo,gerente,12/01/2014,,PR_68
+953,Raquel,Marques,431.502.897-50,ativo,vendedor,06/06/2012,,PR_68
+531,Lavínia,Leão,128.043.596-89,ativo,vendedor,03/02/2014,,PR_68
+75,Maria Isis,Brito,315.278.640-90,ativo,vendedor,12/08/2005,,PR_68
+983,Otto,Costela,758.094.163-57,ativo,vendedor,12/04/2020,,PR_73
+98,Helena,das Neves,593.782.410-50,ativo,vendedor,13/01/2005,,PR_73
+973,Gustavo,Peixoto,734.852.069-38,ativo,gerente,08/01/2020,,PR_73
+155,Elisa,Rocha,340.517.928-97,ativo,vendedor,03/08/2018,,PR_73
+691,Pedro,Marques,573.610.829-12,não ativo,vendedor,21/12/2012,09/05/2014,PR_73
+241,Zoe,Almeida,498.560.273-65,ativo,vendedor,23/01/2016,,PR_74
+362,Enrico,Leão,312.895.647-28,ativo,vendedor,11/08/2008,,PR_74
+985,Matteo,Cirino,615.943.208-70,ativo,vendedor,28/08/2013,,PR_74
+563,Maria Fernanda,Costela,913.520.784-14,ativo,gerente,09/10/2014,,PR_74
+575,Gabriela,da Costa,785.062.319-30,ativo,vendedor,07/05/2018,,PR_78
+366,Natália,Costela,614.089.357-75,ativo,vendedor,04/05/2023,,PR_78
+129,Miguel,Castro,451.268.739-46,ativo,vendedor,03/04/2011,,PR_78
+891,Isaac,da Cruz,134.278.956-37,ativo,gerente,28/05/2007,,PR_78
+169,Vinicius,Almeida,950.348.712-97,ativo,vendedor,28/04/2014,,PR_89
+314,Olívia,Souza,120.469.578-49,ativo,vendedor,18/03/2023,,PR_89
+868,Ana Laura,Vieira,165.849.023-15,ativo,vendedor,07/11/2022,,PR_89
+91,Maria Sophia,Novaes,503.124.978-14,ativo,gerente,18/12/2002,,PR_89
+249,Elisa,Carvalho,546.192.087-01,ativo,vendedor,18/10/2008,,PR_90
+901,Mateus,Brito,165.384.792-19,ativo,vendedor,03/02/2019,,PR_90
+188,Elisa,Marques,249.680.715-58,ativo,vendedor,17/07/2003,,PR_90
+123,Kamilly,Moura,624.735.081-35,ativo,gerente,01/10/2005,,PR_90
+247,Bento,da Paz,958.734.210-05,não ativo,vendedor,27/09/2009,17/02/2011,PR_90
+535,João Felipe,Nascimento,027.481.695-49,ativo,vendedor,28/01/2013,,PR_93
+979,Dom,da Luz,907.841.356-57,ativo,gerente,17/02/2005,,PR_93
+840,Vinicius,Cirino,910.372.845-50,ativo,vendedor,12/03/2010,,PR_93
+875,Bianca,Martins,134.859.762-37,ativo,vendedor,19/11/2004,,PR_93
+97,Nathan,Ribeiro,019.376.425-34,ativo,vendedor,05/02/2020,,PR_95
+14,Antony,Ribeiro,570.968.123-77,ativo,vendedor,27/08/2013,,PR_95
+472,Hadassa,Ribeiro,582.316.490-42,ativo,vendedor,05/02/2020,,PR_95
+725,Carlos Eduardo,Peixoto,973.240.158-32,ativo,gerente,10/11/2019,,PR_95
+28,Luna,Novaes,210.458.693-33,ativo,vendedor,28/05/2004,,PR_99
+507,Bento,Nunes,495.163.827-46,ativo,vendedor,18/05/2004,,PR_99
+185,Alice,Sales,349.256.178-00,ativo,gerente,14/10/2022,,PR_99
+302,Vinícius,Carvalho,369.542.081-24,ativo,vendedor,22/02/2010,,PR_99
+955,João Miguel,Pires,702.963.514-07,ativo,vendedor,09/12/2005,,RJ_10
+560,Luiz Miguel,da Mota,724.186.059-49,ativo,vendedor,12/08/2022,,RJ_10
+444,André,Moreira,245.870.391-79,ativo,vendedor,19/03/2019,,RJ_10
+769,Maysa,da Conceição,327.814.695-64,ativo,gerente,04/11/2007,,RJ_10
+938,Vitor Hugo,Porto,287.390.561-12,não ativo,vendedor,03/03/2001,02/12/2017,RJ_10
+586,Lorena,Ferreira,924.183.750-05,não ativo,vendedor,10/04/2021,29/08/2023,RJ_14
+839,Sabrina,Sales,063.481.295-51,ativo,vendedor,28/09/2017,,RJ_14
+965,Davi Miguel,Macedo,549.872.310-50,ativo,vendedor,16/06/2013,,RJ_14
+929,Lunna,Sampaio,850.246.371-35,ativo,vendedor,10/11/2006,,RJ_14
+746,Gabrielly,Silva,298.135.460-42,ativo,gerente,11/08/2011,,RJ_14
+461,Davi Lucas,Aragão,583.926.740-65,ativo,vendedor,07/08/2016,,RJ_16
+121,João Pedro,Borges,213.459.680-51,ativo,vendedor,06/06/2011,,RJ_16
+788,Raquel,Nogueira,893.671.452-09,ativo,gerente,30/12/2017,,RJ_16
+479,André,Macedo,687.153.094-01,ativo,vendedor,12/01/2010,,RJ_16
+423,Daniela,Jesus,819.630.745-48,ativo,vendedor,20/11/2004,,RJ_23
+883,João Pedro,da Rosa,069.783.241-40,ativo,vendedor,10/01/2000,,RJ_23
+358,Beatriz,Sales,142.567.839-46,ativo,gerente,26/08/2020,,RJ_23
+911,Maria Luísa,Duarte,758.209.416-67,ativo,vendedor,06/01/2013,,RJ_23
+821,Ana Laura,Cunha,592.160.438-06,ativo,vendedor,16/10/2017,,RJ_24
+748,Mateus,Costa,236.749.058-92,ativo,gerente,15/08/2006,,RJ_24
+927,João,Sousa,238.157.946-09,ativo,vendedor,14/08/2013,,RJ_24
+138,João Felipe,Pacheco,074.638.251-08,ativo,vendedor,31/10/2017,,RJ_24
+85,Ana Júlia,Almeida,651.478.029-67,não ativo,vendedor,06/11/2013,12/08/2023,RJ_24
+511,Bernardo,Borges,624.815.709-01,ativo,vendedor,09/09/2018,,RJ_28
+205,Ísis,Caldeira,590.163.278-86,ativo,vendedor,12/12/2000,,RJ_28
+117,Gabrielly,Brito,539.784.162-55,ativo,vendedor,17/02/2019,,RJ_28
+187,Ana Júlia,Borges,547.690.831-57,ativo,gerente,24/11/2020,,RJ_28
+782,Jade,Nascimento,352.876.901-77,ativo,gerente,16/10/2016,,RJ_31
+145,Guilherme,Costela,695.432.807-38,ativo,vendedor,07/01/2024,,RJ_31
+43,Caleb,Lima,481.329.057-41,ativo,vendedor,16/01/2019,,RJ_31
+217,Cecilia,Rezende,054.789.261-67,ativo,vendedor,17/02/2003,,RJ_31
+231,Benicio,Abreu,824.361.950-05,ativo,gerente,10/05/2004,,RJ_35
+642,Maria Alice,Rodrigues,603.892.417-50,ativo,vendedor,19/03/2005,,RJ_35
+971,Henrique,Alves,084.165.729-76,ativo,vendedor,07/08/2000,,RJ_35
+25,Isaque,Porto,032.796.154-61,ativo,vendedor,16/03/2019,,RJ_35
+23,Liz,Sales,857.392.604-00,ativo,vendedor,22/06/2009,,RJ_37
+618,Vitória,Pacheco,310.724.986-69,ativo,vendedor,19/10/2004,,RJ_37
+282,Marcela,Dias,704.312.659-25,ativo,gerente,27/05/2009,,RJ_37
+882,Sara,da Rosa,953.261.784-19,ativo,vendedor,10/02/2023,,RJ_37
+730,Melina,Nascimento,317.654.289-55,ativo,vendedor,22/06/2017,,RJ_42
+608,Liam,da Rosa,672.805.391-30,ativo,gerente,18/01/2012,,RJ_42
+807,Luiz Gustavo,Cunha,723.415.896-00,ativo,vendedor,25/12/2019,,RJ_42
+172,Gabriela,Albuquerque,153.068.497-84,ativo,vendedor,26/01/2015,,RJ_42
+672,Levi,Leão,904.281.567-11,ativo,vendedor,07/08/2018,,RJ_47
+220,Yasmin,Cunha,705.291.863-30,ativo,gerente,18/08/2023,,RJ_47
+290,Luiz Gustavo,Garcia,796.582.104-49,ativo,vendedor,08/07/2017,,RJ_47
+497,Pedro Lucas,Brito,548.679.213-19,ativo,vendedor,22/03/2017,,RJ_47
+307,Stephany,Araújo,704.569.123-80,não ativo,vendedor,07/11/2012,23/12/2020,RJ_50
+258,Vicente,Farias,914.650.278-58,ativo,vendedor,09/07/2001,,RJ_50
+30,Alana,Fernandes,918.054.237-97,ativo,vendedor,14/09/2013,,RJ_50
+583,Stella,Macedo,308.159.276-30,ativo,vendedor,14/02/2011,,RJ_50
+20,Amanda,Aparecida,293.471.805-05,ativo,gerente,10/03/2020,,RJ_50
+959,Igor,Castro,824.956.173-28,não ativo,vendedor,13/05/2024,05/07/2024,RJ_54
+443,Asafe,Santos,276.391.485-37,ativo,gerente,01/04/2002,,RJ_54
+354,Murilo,Aparecida,593.027.681-12,ativo,vendedor,07/10/2019,,RJ_54
+268,Lívia,da Luz,786.931.054-93,ativo,vendedor,31/08/2017,,RJ_54
+874,Isis,Farias,219.507.846-49,ativo,vendedor,25/01/2022,,RJ_54
+360,Ester,Rodrigues,734.160.582-08,ativo,vendedor,28/05/2010,,RJ_56
+36,Bruno,Monteiro,076.423.951-16,ativo,gerente,02/08/2023,,RJ_56
+881,Ravi,Machado,952.108.467-76,ativo,vendedor,16/02/2016,,RJ_56
+765,Samuel,Jesus,758.241.690-20,ativo,vendedor,28/08/2003,,RJ_56
+144,Raquel,Pires,465.103.289-33,ativo,gerente,10/06/2003,,RJ_57
+850,Breno,Garcia,369.475.081-93,ativo,vendedor,21/12/2020,,RJ_57
+495,Eloah,Campos,387.561.294-91,ativo,vendedor,18/10/2022,,RJ_57
+534,João Lucas,Campos,561.078.429-85,ativo,vendedor,02/09/2005,,RJ_57
+161,Milena,Peixoto,805.197.342-97,ativo,vendedor,23/06/2010,,RJ_69
+332,Fernanda,da Mata,702.389.465-92,ativo,vendedor,19/11/2010,,RJ_69
+846,Ian,Machado,327.098.416-22,ativo,vendedor,06/08/2010,,RJ_69
+274,Joaquim,Mendes,352.496.780-92,ativo,gerente,02/10/2022,,RJ_69
+920,Heloísa,Sá,968.435.120-89,ativo,gerente,17/10/2019,,RJ_72
+283,Danilo,Costela,790.624.831-78,não ativo,vendedor,28/04/2011,04/05/2015,RJ_72
+677,João Felipe,Nascimento,369.708.154-39,ativo,vendedor,16/12/2024,,RJ_72
+887,Asafe,Garcia,145.260.739-70,ativo,vendedor,25/11/2014,,RJ_72
+70,Vitória,Mendonça,954.768.230-00,não ativo,vendedor,25/07/2020,04/03/2021,RJ_72
+375,Ana Vitória,Sá,638.957.214-09,ativo,vendedor,01/01/2017,,RJ_72
+517,Matteo,Melo,302.654.798-00,ativo,gerente,15/09/2011,,RJ_73
+591,Mateus,Brito,760.189.534-39,ativo,vendedor,29/02/2020,,RJ_73
+346,Matteo,Pinto,521.376.984-55,ativo,vendedor,23/12/2020,,RJ_73
+486,Nicolas,Marques,021.597.384-41,ativo,vendedor,17/11/2004,,RJ_73
+279,Rafael,Azevedo,523.067.489-00,ativo,vendedor,18/04/2009,,RJ_75
+56,Ana Carolina,Montenegro,054.827.396-00,ativo,vendedor,15/04/2024,,RJ_75
+467,Helena,Alves,196.042.538-24,ativo,vendedor,23/05/2011,,RJ_75
+225,Luana,Alves,702.186.359-40,ativo,gerente,10/02/2010,,RJ_75
+179,Sophie,da Luz,371.894.205-41,não ativo,vendedor,04/12/2015,02/08/2017,RJ_75
+681,Léo,Fonseca,967.510.234-99,não ativo,vendedor,08/11/2006,04/09/2010,RJ_75
+513,Ágatha,Moraes,276.059.834-92,ativo,vendedor,16/03/2008,,RJ_82
+708,Caio,Vieira,371.089.562-68,ativo,vendedor,18/09/2021,,RJ_82
+116,Kamilly,da Paz,376.049.815-93,não ativo,vendedor,18/10/2004,25/01/2007,RJ_82
+968,Juliana,da Luz,146.907.382-03,ativo,gerente,01/07/2022,,RJ_82
+683,Carlos Eduardo,Caldeira,218.697.453-37,ativo,vendedor,02/09/2024,,RJ_82
+634,Mariane,da Paz,302.185.946-15,ativo,vendedor,10/02/2001,,RJ_91
+424,Ravi,Cavalcante,760.283.495-00,não ativo,vendedor,20/12/2010,10/03/2011,RJ_91
+906,Gabriel,Ramos,453.728.190-14,ativo,vendedor,11/06/2010,,RJ_91
+533,Samuel,Cavalcante,639.872.041-50,ativo,vendedor,14/08/2022,,RJ_91
+284,Thiago,Ribeiro,782.035.491-79,ativo,gerente,20/06/2022,,RJ_91
+819,Rebeca,Cassiano,395.180.246-42,ativo,vendedor,11/09/2012,,RJ_98
+492,Liz,Viana,638.942.715-82,ativo,gerente,17/11/2017,,RJ_98
+429,Pedro,Sousa,560.281.937-12,ativo,vendedor,13/09/2018,,RJ_98
+369,Emilly,Gonçalves,749.213.650-16,ativo,vendedor,13/08/2001,,RJ_98
+384,Luiza,Ribeiro,769.284.531-09,ativo,vendedor,19/08/2000,,RS_14
+29,Heitor,Ramos,539.067.814-10,ativo,vendedor,12/03/2020,,RS_14
+904,Matteo,Cassiano,921.637.508-68,ativo,gerente,08/08/2000,,RS_14
+987,Thiago,Barbosa,752.048.361-44,ativo,vendedor,18/10/2017,,RS_14
+590,Ana Vitória,Vasconcelos,601.378.945-20,não ativo,vendedor,27/01/2018,24/06/2020,RS_16
+339,Caio,Ferreira,231.467.089-22,ativo,vendedor,08/11/2013,,RS_16
+697,Noah,Santos,418.290.675-67,ativo,vendedor,07/07/2006,,RS_16
+49,Igor,da Paz,236.905.418-24,ativo,gerente,24/07/2006,,RS_16
+784,Bianca,Rios,907.342.568-92,ativo,vendedor,03/01/2015,,RS_16
+195,Rebeca,Brito,832.064.175-62,ativo,vendedor,15/09/2004,,RS_17
+539,Giovanna,Barbosa,379.451.206-52,ativo,vendedor,20/06/2024,,RS_17
+110,Davi Luiz,Mendonça,532.680.197-30,ativo,vendedor,03/11/2019,,RS_17
+131,Milena,Novais,869.735.012-30,não ativo,vendedor,28/07/2017,12/05/2019,RS_17
+84,Leonardo,Campos,752.814.906-30,ativo,gerente,25/06/2022,,RS_17
+632,Alexia,da Rocha,012.657.483-90,ativo,vendedor,11/10/2000,,RS_2
+564,Nina,Borges,452.869.731-91,ativo,vendedor,20/04/2014,,RS_2
+505,Vicente,Andrade,276.901.854-01,ativo,vendedor,11/12/2013,,RS_2
+566,Camila,Cardoso,734.591.820-32,ativo,gerente,18/01/2005,,RS_2
+998,Leandro,Marques,590.712.638-86,ativo,vendedor,07/09/2022,,RS_21
+405,Isis,Borges,851.234.796-19,ativo,vendedor,11/07/2003,,RS_21
+234,João Gabriel,Campos,391.720.648-03,ativo,vendedor,09/08/2000,,RS_21
+910,Isis,da Costa,763.098.421-96,ativo,gerente,27/05/2009,,RS_21
+489,Benjamin,Dias,105.436.782-53,ativo,gerente,01/06/2024,,RS_25
+855,Maria Eduarda,Alves,584.619.723-09,ativo,vendedor,18/05/2021,,RS_25
+71,Jade,Jesus,143.876.059-01,ativo,vendedor,11/02/2022,,RS_25
+65,Luiz Felipe,Santos,021.754.893-88,ativo,vendedor,14/07/2000,,RS_25
+676,Anna Liz,Moura,401.835.627-71,ativo,vendedor,10/07/2006,,RS_26
+802,Maria Alice,Cassiano,607.582.194-58,ativo,vendedor,06/11/2000,,RS_26
+166,Matheus,Camargo,587.492.136-28,ativo,gerente,08/04/2001,,RS_26
+863,Beatriz,Moraes,624.573.809-10,ativo,vendedor,21/10/2024,,RS_26
+133,Nicole,Moura,289.637.104-40,ativo,gerente,06/05/2008,,RS_3
+728,Pedro Lucas,Rezende,246.910.357-61,ativo,vendedor,08/10/2000,,RS_3
+484,Ana Clara,Pires,045.361.792-16,ativo,vendedor,04/01/2004,,RS_3
+896,Sara,Oliveira,687.314.209-31,não ativo,vendedor,12/04/2016,21/03/2021,RS_3
+223,Mathias,Cirino,925.046.183-60,não ativo,vendedor,02/05/2005,31/03/2022,RS_3
+38,Fernanda,Aparecida,401.597.862-58,ativo,vendedor,19/11/2003,,RS_3
+957,Laís,Leão,962.470.318-31,ativo,vendedor,01/01/2000,,RS_37
+522,Kevin,Guerra,284.516.970-11,ativo,vendedor,29/05/2005,,RS_37
+229,Juliana,Vieira,385.642.170-07,ativo,gerente,13/04/2017,,RS_37
+19,Leonardo,Cardoso,482.963.501-06,ativo,vendedor,19/10/2019,,RS_37
+764,Isaque,Garcia,475.163.028-80,ativo,vendedor,27/12/2009,,RS_38
+873,Carolina,Sá,428.739.561-19,não ativo,vendedor,29/06/2002,24/07/2016,RS_38
+367,Maria,Jesus,951.346.278-19,ativo,vendedor,29/07/2000,,RS_38
+795,Ana Julia,Souza,921.056.834-60,ativo,gerente,25/10/2002,,RS_38
+250,Maysa,da Rocha,645.038.217-17,ativo,vendedor,10/08/2023,,RS_38
+363,Cecília,Machado,074.392.586-65,não ativo,vendedor,19/05/2009,11/09/2022,RS_4
+726,Maria Flor,Vieira,690.248.731-69,ativo,vendedor,07/03/2016,,RS_4
+862,João Gabriel,da Rocha,470.189.325-05,ativo,vendedor,01/09/2010,,RS_4
+308,Benjamim,Rios,809.317.452-41,ativo,vendedor,17/06/2022,,RS_4
+46,Luiz Henrique,Ramos,519.027.346-61,ativo,gerente,07/03/2004,,RS_4
+478,Ísis,Costa,534.081.629-05,ativo,vendedor,01/04/2023,,RS_59
+689,Olívia,Silva,760.198.254-85,ativo,vendedor,16/05/2002,,RS_59
+456,Josué,da Mata,250.318.694-70,ativo,vendedor,24/01/2007,,RS_59
+209,Oliver,Marques,984.507.362-00,ativo,gerente,06/06/2018,,RS_59
+733,Clarice,Pereira,945.608.327-65,ativo,vendedor,05/07/2018,,RS_6
+191,Dom,Moura,976.815.230-30,ativo,vendedor,08/04/2013,,RS_6
+804,Isaac,Rios,169.480.275-20,ativo,gerente,29/10/2003,,RS_6
+594,Ester,Duarte,109.253.648-51,ativo,vendedor,07/04/2007,,RS_6
+509,Ravi,da Cruz,635.274.180-08,ativo,vendedor,10/02/2016,,RS_61
+196,Vitor,Porto,103.648.795-48,ativo,vendedor,02/02/2015,,RS_61
+775,Maria Vitória,Pimenta,897.501.364-20,ativo,vendedor,14/05/2006,,RS_61
+142,Rafaela,Vasconcelos,961.732.084-31,ativo,gerente,01/11/2022,,RS_61
+557,Maria Eduarda,das Neves,251.083.746-07,ativo,vendedor,07/07/2011,,RS_66
+871,Julia,Pereira,718.563.902-68,ativo,gerente,03/05/2002,,RS_66
+540,Rael,Pacheco,697.841.503-01,ativo,vendedor,17/03/2015,,RS_66
+376,Olivia,Oliveira,621.074.598-94,ativo,vendedor,20/01/2003,,RS_66
+595,Mathias,Ribeiro,259.637.480-38,não ativo,vendedor,19/07/2000,18/12/2009,RS_80
+798,Eduarda,Pastor,089.641.253-98,não ativo,vendedor,04/02/2001,18/11/2010,RS_80
+352,Maria,Andrade,568.309.174-84,ativo,vendedor,06/05/2013,,RS_80
+416,Maysa,Moura,369.045.781-57,ativo,gerente,19/12/2021,,RS_80
+463,Gustavo,da Conceição,146.935.782-82,ativo,vendedor,28/09/2006,,RS_80
+756,Marina,da Cunha,209.687.315-03,ativo,vendedor,01/08/2008,,RS_80
+336,Fernando,Barros,471.352.608-80,ativo,vendedor,17/08/2020,,RS_84
+44,Maysa,Costa,915.840.362-06,ativo,gerente,16/11/2001,,RS_84
+304,Vinícius,Guerra,370.249.856-74,ativo,vendedor,23/07/2017,,RS_84
+100,Ana Luiza,Sá,719.325.806-03,ativo,vendedor,18/04/2016,,RS_84
+280,Pedro Miguel,Borges,724.369.085-83,ativo,gerente,09/01/2005,,RS_90
+390,Joana,Barbosa,719.386.240-50,ativo,vendedor,27/12/2000,,RS_90
+856,Lucca,da Rosa,159.830.476-39,ativo,vendedor,25/04/2024,,RS_90
+259,Maria Luiza,Silva,237.061.984-87,ativo,vendedor,25/05/2004,,RS_90
+532,Stephany,Ramos,629.347.850-92,ativo,vendedor,15/03/2014,,RS_92
+870,Gael Henrique,Cavalcanti,921.876.453-55,ativo,vendedor,30/07/2009,,RS_92
+261,Maria Flor,Moraes,610.389.742-40,ativo,vendedor,19/01/2004,,RS_92
+780,Eloá,Pereira,549.102.376-07,ativo,gerente,28/05/2013,,RS_92
+609,Miguel,Albuquerque,861.279.345-91,ativo,vendedor,12/06/2022,,SC_10
+73,Maria Helena,Gomes,469.735.081-20,ativo,vendedor,12/01/2022,,SC_10
+474,Melissa,da Cunha,598.402.163-33,ativo,gerente,03/02/2002,,SC_10
+912,Maria Luiza,Pinto,307.564.892-29,ativo,vendedor,04/10/2000,,SC_10
+357,Otto,Sousa,037.512.896-40,ativo,vendedor,28/03/2002,,SC_13
+40,Isaac,da Conceição,320.719.856-21,ativo,vendedor,10/01/2005,,SC_13
+752,Caroline,Nascimento,480.937.215-41,ativo,gerente,29/11/2005,,SC_13
+197,Stephany,Nascimento,632.580.497-00,ativo,vendedor,05/09/2005,,SC_13
+789,Juliana,Costa,389.405.172-88,ativo,vendedor,21/01/2001,,SC_18
+293,João Felipe,Azevedo,740.928.356-47,ativo,vendedor,02/02/2000,,SC_18
+50,Melissa,da Mata,195.462.807-20,ativo,vendedor,27/12/2014,,SC_18
+508,Gustavo,Câmara,957.431.682-37,não ativo,vendedor,09/01/2006,06/01/2007,SC_18
+860,Otávio,Porto,328.619.405-06,ativo,gerente,23/02/2018,,SC_18
+311,Stella,da Cruz,738.690.125-95,não ativo,vendedor,11/08/2001,01/10/2020,SC_23
+785,Pietra,da Cruz,584.017.629-01,ativo,vendedor,15/10/2021,,SC_23
+81,Hadassa,Brito,068.971.235-95,não ativo,vendedor,28/03/2018,04/06/2023,SC_23
+884,Alexia,Martins,241.685.903-05,não ativo,vendedor,18/10/2006,21/03/2014,SC_23
+356,Liam,Vargas,401.659.238-06,ativo,gerente,09/03/2020,,SC_23
+90,Stella,Vargas,354.728.901-79,ativo,vendedor,08/11/2010,,SC_23
+237,Léo,Fonseca,613.502.947-99,ativo,vendedor,09/05/2022,,SC_23
+118,Hadassa,Caldeira,631.794.580-20,não ativo,vendedor,13/10/2022,20/08/2023,SC_25
+690,Isabelly,Silveira,829.517.604-85,ativo,gerente,03/06/2008,,SC_25
+152,Camila,Fernandes,457.813.620-53,ativo,vendedor,26/05/2017,,SC_25
+278,João Pedro,Macedo,317.548.260-08,ativo,vendedor,12/04/2021,,SC_25
+792,Maria Eduarda,Moraes,248.516.937-37,não ativo,vendedor,18/07/2005,05/06/2024,SC_25
+452,Bento,Gonçalves,870.952.361-86,ativo,vendedor,28/03/2003,,SC_25
+918,Alana,Moura,571.829.604-94,ativo,vendedor,20/08/2013,,SC_30
+701,Clara,Guerra,097.135.624-61,ativo,vendedor,15/10/2006,,SC_30
+125,Ísis,Guerra,791.428.506-49,ativo,gerente,26/05/2019,,SC_30
+240,Júlia,Marques,602.417.359-80,ativo,vendedor,19/10/2019,,SC_30
+462,Mateus,Azevedo,054.896.123-98,ativo,vendedor,14/04/2023,,SC_39
+310,Olívia,da Luz,390.651.824-89,ativo,vendedor,14/09/2005,,SC_39
+573,José Miguel,Mendes,428.739.516-64,ativo,vendedor,18/04/2004,,SC_39
+60,Anthony,Barbosa,892.307.641-40,ativo,gerente,23/01/2019,,SC_39
+638,Diego,Novais,216.534.708-44,não ativo,vendedor,28/01/2006,09/07/2017,SC_46
+919,Olívia,Gomes,791.354.086-93,ativo,gerente,03/07/2018,,SC_46
+86,Nina,Martins,812.490.376-03,ativo,vendedor,05/12/2010,,SC_46
+203,Gustavo,Lopes,132.098.465-70,ativo,vendedor,31/01/2022,,SC_46
+470,Lorenzo,da Paz,290.675.138-30,ativo,vendedor,18/02/2024,,SC_46
+624,Manuella,Vieira,510.764.329-99,ativo,vendedor,27/04/2019,,SC_47
+801,Ana Julia,Rodrigues,816.742.039-69,ativo,vendedor,24/07/2007,,SC_47
+338,Maria Alice,Moreira,428.039.576-47,ativo,vendedor,17/09/2001,,SC_47
+783,Valentina,Cavalcante,524.897.361-91,ativo,gerente,17/02/2010,,SC_47
+328,Marina,Leão,196.735.082-59,ativo,vendedor,22/10/2017,,SC_49
+415,Emanuella,Cassiano,385.217.964-55,ativo,vendedor,02/09/2000,,SC_49
+981,Valentim,da Rosa,245.301.689-05,ativo,vendedor,02/05/2017,,SC_49
+818,Larissa,Nunes,523.976.840-47,ativo,gerente,23/02/2024,,SC_49
+35,Bernardo,da Conceição,593.842.670-74,ativo,vendedor,03/08/2019,,SC_6
+815,Nina,Aparecida,734.809.652-29,ativo,gerente,28/10/2024,,SC_6
+600,Antony,da Paz,182.903.765-02,não ativo,vendedor,04/06/2006,16/06/2018,SC_6
+761,Maria,Nascimento,431.506.928-06,ativo,vendedor,22/05/2007,,SC_6
+10,Rhavi,Pereira,068.739.524-00,ativo,vendedor,02/05/2015,,SC_6
+173,Valentina,Cardoso,346.219.870-03,não ativo,vendedor,11/08/2018,19/03/2024,SC_69
+298,Ana Laura,Souza,867.345.092-65,ativo,vendedor,30/12/2021,,SC_69
+213,Agatha,Porto,013.789.564-00,ativo,vendedor,13/04/2018,,SC_69
+988,Marcela,Cirino,382.490.175-79,ativo,vendedor,13/11/2013,,SC_69
+651,Isadora,Moreira,536.192.804-60,ativo,gerente,20/10/2013,,SC_69
+262,Laís,Novaes,863.915.470-84,ativo,gerente,22/05/2010,,SC_80
+737,Marcela,Monteiro,274.601.593-52,ativo,vendedor,04/04/2006,,SC_80
+139,Rafaela,da Rosa,410.368.795-93,ativo,vendedor,20/11/2014,,SC_80
+24,Laura,Ramos,126.580.349-89,ativo,vendedor,27/08/2006,,SC_80
+822,Laura,Moura,851.347.962-46,ativo,vendedor,02/04/2022,,SC_83
+967,Isabel,Aparecida,613.024.589-06,ativo,vendedor,20/01/2024,,SC_83
+552,Maria Alice,Pires,792.351.806-86,ativo,gerente,17/05/2006,,SC_83
+401,Danilo,Almeida,586.027.194-85,ativo,vendedor,17/11/2002,,SC_83
+698,Antonella,Azevedo,125.968.470-94,ativo,vendedor,15/12/2002,,SC_91
+4,João,Macedo,096.437.582-65,ativo,vendedor,08/02/2007,,SC_91
+579,Kevin,Andrade,570.413.892-60,ativo,vendedor,14/08/2014,,SC_91
+386,Sophia,Ribeiro,703.486.159-57,ativo,gerente,01/12/2001,,SC_91
+306,Isis,Mendonça,248.975.063-10,não ativo,vendedor,14/10/2017,02/04/2020,SP Capital Centro_10
+994,Lara,Vargas,892.756.013-21,ativo,vendedor,14/12/2020,,SP Capital Centro_10
+714,Brayan,Montenegro,163.548.792-73,ativo,vendedor,26/05/2023,,SP Capital Centro_10
+656,Diego,Vieira,601.934.275-16,ativo,vendedor,04/11/2023,,SP Capital Centro_10
+861,Caleb,Ferreira,756.138.940-00,ativo,gerente,06/08/2011,,SP Capital Centro_10
+192,Gael Henrique,Fernandes,162.038.479-50,ativo,vendedor,04/10/2006,,SP Capital Centro_11
+371,Ágatha,Souza,021.389.764-40,ativo,vendedor,11/06/2022,,SP Capital Centro_11
+956,Bryan,Sampaio,294.516.830-89,ativo,gerente,02/09/2013,,SP Capital Centro_11
+793,Brenda,Macedo,028.176.453-08,ativo,vendedor,14/03/2008,,SP Capital Centro_11
+975,Isis,Pereira,769.512.408-76,ativo,vendedor,16/01/2007,,SP Capital Centro_2
+848,João Vitor,Fogaça,146.895.370-20,ativo,vendedor,11/01/2007,,SP Capital Centro_2
+546,Luiz Gustavo,Rios,695.180.342-06,ativo,gerente,09/02/2018,,SP Capital Centro_2
+527,Cecilia,Fonseca,506.738.241-44,ativo,vendedor,21/11/2006,,SP Capital Centro_2
+684,Ana Cecília,Nascimento,013.942.678-78,ativo,gerente,26/07/2010,,SP Capital Centro_38
+779,Ana,Teixeira,134.958.760-57,ativo,vendedor,08/06/2018,,SP Capital Centro_38
+451,Levi,Souza,251.098.736-40,ativo,vendedor,11/10/2011,,SP Capital Centro_38
+355,José Miguel,Pacheco,357.086.421-90,ativo,vendedor,22/03/2022,,SP Capital Centro_38
+687,João,das Neves,684.017.235-07,ativo,gerente,08/03/2002,,SP Capital Centro_41
+878,Gabriel,Correia,564.713.092-52,ativo,vendedor,17/12/2016,,SP Capital Centro_41
+969,Daniela,da Luz,613.290.485-98,ativo,vendedor,05/07/2023,,SP Capital Centro_41
+175,Matheus,Peixoto,405.179.326-52,ativo,vendedor,27/09/2024,,SP Capital Centro_41
+184,Thomas,Silveira,302.459.176-16,ativo,vendedor,09/03/2023,,SP Capital Centro_47
+181,Lara,Fonseca,726.908.143-31,ativo,vendedor,13/11/2009,,SP Capital Centro_47
+431,Rhavi,Vasconcelos,817.325.694-28,ativo,gerente,08/02/2011,,SP Capital Centro_47
+935,Caio,Rezende,124.859.603-05,não ativo,vendedor,22/11/2008,07/02/2023,SP Capital Centro_47
+13,Pedro,Silva,190.832.467-87,ativo,vendedor,15/01/2014,,SP Capital Centro_47
+917,Luana,Rocha,246.310.978-50,ativo,vendedor,23/09/2020,,SP Capital Centro_48
+842,Beatriz,Sampaio,106.582.493-98,ativo,vendedor,21/12/2013,,SP Capital Centro_48
+257,Juliana,Nunes,876.541.209-58,ativo,gerente,15/05/2008,,SP Capital Centro_48
+530,Enzo,Guerra,053.768.492-10,ativo,vendedor,06/01/2003,,SP Capital Centro_48
+866,Olivia,Dias,710.864.539-48,não ativo,vendedor,17/12/2016,03/07/2022,SP Capital Centro_48
+391,Agatha,Sá,495.071.863-01,não ativo,vendedor,09/09/2015,29/11/2021,SP Capital Centro_48
+373,Ísis,da Luz,403.269.178-96,ativo,vendedor,16/01/2011,,SP Capital Centro_53
+569,Rodrigo,Siqueira,023.495.786-74,ativo,vendedor,30/12/2019,,SP Capital Centro_53
+915,Ryan,Oliveira,385.046.921-24,ativo,vendedor,03/11/2024,,SP Capital Centro_53
+15,Cecilia,Rocha,365.019.274-80,ativo,gerente,26/05/2008,,SP Capital Centro_53
+514,Clarice,Silveira,897.546.120-30,não ativo,vendedor,25/06/2003,06/09/2006,SP Capital Centro_53
+361,Eduardo,da Costa,632.978.105-21,ativo,vendedor,13/02/2021,,SP Capital Centro_58
+610,Luna,Viana,650.793.142-06,ativo,gerente,18/11/2002,,SP Capital Centro_58
+63,Miguel,Garcia,028.935.674-10,ativo,vendedor,16/06/2000,,SP Capital Centro_58
+87,Maria Laura,Rodrigues,079.385.421-05,ativo,vendedor,02/02/2024,,SP Capital Centro_58
+107,Liam,Novaes,682.149.735-46,ativo,vendedor,16/02/2017,,SP Capital Centro_60
+337,Danilo,Correia,928.036.147-31,ativo,vendedor,04/05/2001,,SP Capital Centro_60
+951,José Pedro,Moreira,651.047.382-80,ativo,vendedor,28/06/2002,,SP Capital Centro_60
+526,Leonardo,Pinto,348.170.629-40,ativo,gerente,26/12/2020,,SP Capital Centro_60
+636,Natália,Casa Grande,876.590.314-57,ativo,vendedor,30/03/2001,,SP Capital Centro_69
+349,Kevin,da Mata,986.471.320-50,ativo,vendedor,13/07/2004,,SP Capital Centro_69
+640,Luna,Freitas,712.685.309-21,ativo,vendedor,01/12/2008,,SP Capital Centro_69
+827,Marcos Vinicius,Gomes,614.503.782-26,ativo,gerente,10/04/2003,,SP Capital Centro_69
+553,Valentim,da Mota,657.402.193-61,não ativo,vendedor,08/06/2016,16/06/2021,SP Capital Centro_69
+949,Yan,Barbosa,738.546.291-09,ativo,vendedor,31/05/2020,,SP Capital Centro_77
+140,Murilo,Fogaça,420.536.978-65,ativo,vendedor,20/05/2024,,SP Capital Centro_77
+931,Manuela,Vieira,329.541.807-14,ativo,vendedor,23/04/2000,,SP Capital Centro_77
+568,Antonella,Carvalho,706.943.251-80,ativo,gerente,04/01/2010,,SP Capital Centro_77
+342,Otávio,Teixeira,038.169.254-05,ativo,vendedor,16/02/2019,,SP Capital Centro_80
+694,Ana Sophia,Caldeira,809.375.162-95,não ativo,vendedor,06/08/2021,29/08/2024,SP Capital Centro_80
+616,Agatha,Aragão,650.392.874-29,ativo,vendedor,29/07/2019,,SP Capital Centro_80
+772,Maria Eduarda,Cunha,986.437.125-82,ativo,vendedor,09/07/2019,,SP Capital Centro_80
+21,Antonella,Cavalcante,681.240.957-01,ativo,gerente,08/07/2021,,SP Capital Centro_80
+132,Sarah,Santos,513.746.902-52,ativo,gerente,18/05/2023,,SP Capital Centro_87
+469,José Pedro,Araújo,089.415.327-79,ativo,vendedor,12/09/2017,,SP Capital Centro_87
+791,Otto,Moura,243.587.109-05,ativo,vendedor,08/08/2014,,SP Capital Centro_87
+515,Yasmin,da Rosa,907.158.436-48,ativo,vendedor,07/12/2011,,SP Capital Centro_87
+45,Heitor,Teixeira,907.418.635-10,ativo,vendedor,12/04/2016,,SP Capital Centro_90
+324,Lavínia,Silva,265.018.379-95,ativo,gerente,09/10/2001,,SP Capital Centro_90
+872,Vinícius,Barbosa,493.605.712-61,ativo,vendedor,10/10/2012,,SP Capital Centro_90
+379,João Vitor,Rios,519.063.478-75,ativo,vendedor,12/01/2004,,SP Capital Centro_90
+724,Ayla,Montenegro,295.843.670-56,ativo,gerente,19/08/2009,,SP Capital Centro_92
+541,Antony,Barros,761.350.892-77,ativo,vendedor,30/04/2006,,SP Capital Centro_92
+587,Leonardo,Lopes,619.053.427-99,ativo,vendedor,07/11/2013,,SP Capital Centro_92
+106,Emanuelly,Cassiano,236.875.194-73,ativo,vendedor,13/05/2016,,SP Capital Centro_92
+164,Elisa,da Mota,742.369.058-92,ativo,gerente,16/10/2001,,SP Capital Centro_93
+713,Luiz Otávio,da Mota,319.260.785-86,ativo,vendedor,19/03/2006,,SP Capital Centro_93
+607,Lucas Gabriel,da Mata,215.608.749-02,ativo,vendedor,19/02/2014,,SP Capital Centro_93
+207,Maria Clara,Viana,650.237.984-29,ativo,vendedor,24/07/2019,,SP Capital Centro_93
+864,Ana Júlia,Vieira,658.147.329-46,ativo,gerente,17/11/2022,,SP Capital Centro_96
+670,Eloah,Vieira,309.276.451-06,ativo,vendedor,11/04/2002,,SP Capital Centro_96
+399,Diogo,Pires,823.910.574-23,ativo,vendedor,30/08/2006,,SP Capital Centro_96
+813,Bianca,Nascimento,917.246.058-01,ativo,vendedor,11/08/2010,,SP Capital Centro_96
+545,Camila,da Luz,789.235.406-92,ativo,vendedor,19/09/2014,,SP Capital Centro_97
+243,Julia,Siqueira,208.691.347-87,ativo,vendedor,04/04/2003,,SP Capital Centro_97
+453,Ana Lívia,da Rocha,475.028.613-35,ativo,gerente,13/06/2023,,SP Capital Centro_97
+269,Henrique,da Rocha,391.485.720-04,ativo,vendedor,09/03/2002,,SP Capital Centro_97
+58,Luan,Souza,910.843.526-05,ativo,vendedor,04/02/2008,,SP Capital Centro_99
+673,Luiz Miguel,Machado,192.653.478-64,ativo,vendedor,29/11/2008,,SP Capital Centro_99
+889,Laís,Albuquerque,302.769.158-95,ativo,gerente,05/02/2002,,SP Capital Centro_99
+907,Manuela,Guerra,625.391.704-80,ativo,vendedor,11/01/2012,,SP Capital Centro_99
+510,Jade,Pereira,041.759.382-14,ativo,gerente,24/10/2023,,SP Capital Leste/Oeste_10
+738,Valentim,da Costa,618.057.932-68,ativo,vendedor,13/06/2019,,SP Capital Leste/Oeste_10
+78,Gustavo,Mendes,083.247.196-87,ativo,vendedor,27/02/2005,,SP Capital Leste/Oeste_10
+289,Maria Luiza,das Neves,630.795.214-80,ativo,vendedor,14/07/2024,,SP Capital Leste/Oeste_10
+388,Davi Luiz,Casa Grande,097.468.152-02,ativo,vendedor,18/01/2012,,SP Capital Leste/Oeste_100
+312,Vitor Gabriel,da Rosa,380.142.695-51,ativo,vendedor,31/01/2002,,SP Capital Leste/Oeste_100
+7,Rodrigo,da Mata,930.586.412-06,ativo,vendedor,27/03/2008,,SP Capital Leste/Oeste_100
+974,Laís,Fogaça,742.160.589-49,ativo,gerente,02/07/2001,,SP Capital Leste/Oeste_100
+493,Mariane,Dias,326.489.157-37,ativo,vendedor,17/02/2008,,SP Capital Leste/Oeste_11
+101,Brenda,da Luz,763.850.492-56,ativo,vendedor,03/12/2009,,SP Capital Leste/Oeste_11
+48,Dante,Sales,546.312.987-82,ativo,gerente,28/06/2018,,SP Capital Leste/Oeste_11
+122,Mathias,Alves,635.149.280-70,ativo,vendedor,01/05/2009,,SP Capital Leste/Oeste_11
+407,Emanuelly,Fonseca,835.107.492-60,ativo,vendedor,19/03/2024,,SP Capital Leste/Oeste_14
+897,Hadassa,Sampaio,085.462.179-20,ativo,vendedor,17/09/2000,,SP Capital Leste/Oeste_14
+852,Enzo,Oliveira,052.437.198-97,ativo,vendedor,24/04/2001,,SP Capital Leste/Oeste_14
+260,Ana Julia,Sampaio,247.506.981-30,ativo,gerente,30/05/2022,,SP Capital Leste/Oeste_14
+477,Luiz Felipe,Gomes,820.975.463-74,não ativo,vendedor,11/10/2004,08/04/2016,SP Capital Leste/Oeste_18
+702,Arthur Miguel,Cavalcante,504.681.793-48,ativo,vendedor,25/03/2020,,SP Capital Leste/Oeste_18
+245,Noah,da Rocha,359.068.741-00,não ativo,vendedor,09/08/2014,07/06/2024,SP Capital Leste/Oeste_18
+572,Bruno,Marques,439.701.562-70,ativo,gerente,27/03/2005,,SP Capital Leste/Oeste_18
+204,Otto,da Mota,830.652.194-33,ativo,vendedor,17/04/2002,,SP Capital Leste/Oeste_18
+299,Marcos Vinicius,Souza,723.901.845-88,ativo,vendedor,04/06/2024,,SP Capital Leste/Oeste_18
+165,Ryan,Marques,413.720.965-07,ativo,vendedor,17/10/2014,,SP Capital Leste/Oeste_2
+787,Ravi,Santos,482.017.395-23,ativo,vendedor,14/09/2021,,SP Capital Leste/Oeste_2
+62,André,Vasconcelos,850.496.312-89,ativo,gerente,16/02/2005,,SP Capital Leste/Oeste_2
+653,Ravi,Freitas,631.097.254-52,ativo,vendedor,16/03/2002,,SP Capital Leste/Oeste_2
+330,Agatha,Ribeiro,540.398.127-60,ativo,gerente,03/06/2021,,SP Capital Leste/Oeste_23
+413,Fernanda,Leão,937.652.014-99,não ativo,vendedor,25/08/2015,17/09/2017,SP Capital Leste/Oeste_23
+716,Ester,Montenegro,296.375.108-77,ativo,vendedor,22/04/2006,,SP Capital Leste/Oeste_23
+599,Paulo,Silveira,147.039.268-22,ativo,vendedor,17/12/2018,,SP Capital Leste/Oeste_23
+753,Mariah,Pimenta,201.859.746-94,ativo,vendedor,17/01/2017,,SP Capital Leste/Oeste_23
+108,Emilly,Vasconcelos,421.365.087-17,ativo,vendedor,02/10/2023,,SP Capital Leste/Oeste_25
+984,Natália,da Cruz,061.783.592-68,ativo,vendedor,21/11/2012,,SP Capital Leste/Oeste_25
+327,Marina,Cirino,753.192.084-05,ativo,vendedor,04/06/2010,,SP Capital Leste/Oeste_25
+589,Igor,Barbosa,597.248.061-11,ativo,gerente,03/03/2022,,SP Capital Leste/Oeste_25
+942,Bianca,Jesus,304.761.895-00,ativo,gerente,11/03/2000,,SP Capital Leste/Oeste_34
+751,Theo,Teixeira,624.079.358-29,ativo,vendedor,19/11/2017,,SP Capital Leste/Oeste_34
+385,Lívia,Andrade,216.930.578-59,ativo,vendedor,05/04/2001,,SP Capital Leste/Oeste_34
+905,Maria Sophia,Novais,463.820.175-07,ativo,vendedor,07/01/2013,,SP Capital Leste/Oeste_34
+414,Maria Fernanda,Garcia,924.751.306-52,ativo,gerente,12/06/2016,,SP Capital Leste/Oeste_37
+776,Pedro Henrique,Ramos,349.057.812-05,ativo,vendedor,09/01/2012,,SP Capital Leste/Oeste_37
+937,Raul,Sales,764.158.320-26,ativo,vendedor,19/12/2020,,SP Capital Leste/Oeste_37
+471,Maria Fernanda,da Mata,143.269.507-06,ativo,vendedor,18/12/2005,,SP Capital Leste/Oeste_37
+699,Isabelly,Melo,791.430.586-39,não ativo,vendedor,03/03/2005,13/10/2018,SP Capital Leste/Oeste_37
+89,Sabrina,Fonseca,475.320.689-00,ativo,vendedor,30/11/2019,,SP Capital Leste/Oeste_39
+335,Daniela,Peixoto,625.790.831-03,ativo,vendedor,04/12/2009,,SP Capital Leste/Oeste_39
+156,Yan,Ferreira,768.450.139-93,não ativo,vendedor,28/05/2024,06/10/2024,SP Capital Leste/Oeste_39
+518,Benjamin,das Neves,964.850.137-84,ativo,gerente,07/08/2004,,SP Capital Leste/Oeste_39
+368,Mirella,Sales,876.450.129-94,não ativo,vendedor,30/11/2022,18/03/2024,SP Capital Leste/Oeste_39
+977,Luana,Sales,136.207.498-50,ativo,vendedor,12/07/2021,,SP Capital Leste/Oeste_39
+488,Luigi,Jesus,623.479.508-00,ativo,vendedor,11/12/2019,,SP Capital Leste/Oeste_48
+908,Matteo,Pimenta,098.754.132-32,ativo,gerente,18/11/2002,,SP Capital Leste/Oeste_48
+128,Kamilly,Ribeiro,945.237.618-09,ativo,vendedor,25/04/2006,,SP Capital Leste/Oeste_48
+434,Arthur,Novais,985.426.730-00,ativo,vendedor,19/07/2018,,SP Capital Leste/Oeste_48
+252,Ravi,Costa,386.247.190-03,ativo,vendedor,01/02/2024,,SP Capital Leste/Oeste_5
+425,Calebe,da Mota,052.438.176-35,ativo,vendedor,22/03/2001,,SP Capital Leste/Oeste_5
+926,Gabriel,Alves,748.135.620-35,ativo,vendedor,09/06/2008,,SP Capital Leste/Oeste_5
+485,Larissa,da Paz,615.429.307-07,ativo,gerente,05/09/2014,,SP Capital Leste/Oeste_5
+796,Felipe,Oliveira,598.703.216-40,ativo,vendedor,12/12/2009,,SP Capital Leste/Oeste_53
+115,Melissa,da Cruz,764.502.183-71,ativo,vendedor,05/10/2007,,SP Capital Leste/Oeste_53
+696,Cecília,Moura,316.895.247-82,ativo,vendedor,02/06/2014,,SP Capital Leste/Oeste_53
+750,Enzo Gabriel,Mendes,032.914.678-50,ativo,gerente,07/11/2022,,SP Capital Leste/Oeste_53
+5,Davi,Pires,216.450.983-89,ativo,vendedor,15/01/2014,,SP Capital Leste/Oeste_54
+800,Emilly,da Conceição,289.760.315-12,ativo,vendedor,07/05/2008,,SP Capital Leste/Oeste_54
+88,Pedro,das Neves,635.048.197-66,ativo,vendedor,17/12/2008,,SP Capital Leste/Oeste_54
+529,Oliver,Ribeiro,023.651.874-71,ativo,gerente,16/04/2016,,SP Capital Leste/Oeste_54
+233,Paulo,Barros,938.501.647-48,não ativo,vendedor,18/07/2003,22/05/2007,SP Capital Leste/Oeste_56
+79,Luara,Duarte,842.305.917-05,não ativo,vendedor,18/06/2002,16/10/2011,SP Capital Leste/Oeste_56
+68,Isabela,Fonseca,148.902.736-03,ativo,gerente,01/03/2002,,SP Capital Leste/Oeste_56
+412,Levi,Pires,524.031.789-50,ativo,vendedor,22/08/2004,,SP Capital Leste/Oeste_56
+747,Fernanda,Macedo,380.214.569-06,ativo,vendedor,07/03/2008,,SP Capital Leste/Oeste_56
+113,Aylla,Macedo,523.768.419-09,ativo,vendedor,19/04/2022,,SP Capital Leste/Oeste_56
+210,Otto,Pacheco,853.641.920-24,ativo,vendedor,16/08/2015,,SP Capital Leste/Oeste_58
+303,Maria Isis,Carvalho,837.694.215-82,ativo,vendedor,20/08/2001,,SP Capital Leste/Oeste_58
+831,Marcelo,Borges,750.923.641-06,ativo,vendedor,27/04/2016,,SP Capital Leste/Oeste_58
+961,Rael,Santos,049.273.156-06,não ativo,vendedor,08/08/2011,31/12/2018,SP Capital Leste/Oeste_58
+909,Maria Alice,Pacheco,728.409.631-40,ativo,gerente,21/02/2002,,SP Capital Leste/Oeste_58
+978,Vicente,Gonçalves,419.630.582-24,ativo,vendedor,05/10/2018,,SP Capital Leste/Oeste_66
+33,Theo,da Cruz,157.863.042-80,não ativo,vendedor,09/04/2014,19/06/2024,SP Capital Leste/Oeste_66
+8,Alexandre,Azevedo,018.436.257-17,ativo,vendedor,25/01/2000,,SP Capital Leste/Oeste_66
+946,Bella,Lopes,714.620.358-17,ativo,vendedor,22/09/2011,,SP Capital Leste/Oeste_66
+865,Francisco,Fonseca,874.231.690-13,ativo,gerente,18/04/2016,,SP Capital Leste/Oeste_66
+982,Raquel,Camargo,508.246.391-89,não ativo,vendedor,11/08/2010,09/09/2010,SP Capital Leste/Oeste_66
+171,Enzo Gabriel,Guerra,459.673.018-01,ativo,gerente,23/08/2015,,SP Capital Leste/Oeste_69
+319,Levi,Costela,270.961.583-59,ativo,vendedor,14/10/2014,,SP Capital Leste/Oeste_69
+686,Liam,Cavalcanti,835.170.496-20,ativo,vendedor,15/07/2018,,SP Capital Leste/Oeste_69
+664,João Pedro,Ramos,580.627.419-58,não ativo,vendedor,14/11/2006,13/04/2020,SP Capital Leste/Oeste_69
+446,Thomas,Ramos,089.427.156-30,ativo,vendedor,04/09/2001,,SP Capital Leste/Oeste_69
+126,Otto,Camargo,198.253.407-97,ativo,vendedor,09/06/2009,,SP Capital Leste/Oeste_79
+666,Maitê,Araújo,081.342.576-07,ativo,vendedor,21/10/2004,,SP Capital Leste/Oeste_79
+903,Alana,Marques,874.963.125-09,ativo,vendedor,25/05/2005,,SP Capital Leste/Oeste_79
+706,Ana Clara,Cunha,278.394.605-00,ativo,gerente,23/06/2007,,SP Capital Leste/Oeste_79
+930,Vinicius,Brito,023.156.749-99,ativo,gerente,15/04/2022,,SP Capital Leste/Oeste_8
+502,Zoe,Oliveira,458.960.732-83,não ativo,vendedor,11/11/2006,02/04/2023,SP Capital Leste/Oeste_8
+528,Heloísa,da Costa,491.837.260-04,ativo,vendedor,21/04/2002,,SP Capital Leste/Oeste_8
+892,Noah,Andrade,827.530.416-44,ativo,vendedor,31/03/2009,,SP Capital Leste/Oeste_8
+580,Otto,Montenegro,327.805.649-38,ativo,vendedor,15/04/2002,,SP Capital Leste/Oeste_8
+137,Theodoro,Freitas,764.215.839-46,ativo,vendedor,30/12/2016,,SP Capital Leste/Oeste_82
+383,Heloísa,Nascimento,431.076.892-03,ativo,gerente,27/02/2007,,SP Capital Leste/Oeste_82
+168,Pedro,Ramos,504.817.296-58,não ativo,vendedor,24/11/2017,22/09/2018,SP Capital Leste/Oeste_82
+729,Heloisa,Nascimento,425.678.319-91,ativo,vendedor,12/02/2012,,SP Capital Leste/Oeste_82
+936,Luísa,Novaes,897.463.052-47,ativo,vendedor,15/10/2021,,SP Capital Leste/Oeste_82
+925,Eduardo,Guerra,045.237.968-74,ativo,vendedor,27/03/2002,,SP Capital Leste/Oeste_85
+774,Alícia,Pinto,810.527.346-26,ativo,vendedor,19/05/2002,,SP Capital Leste/Oeste_85
+820,Gael Henrique,Novaes,865.701.249-94,ativo,vendedor,27/03/2014,,SP Capital Leste/Oeste_85
+440,Marcelo,Pastor,642.903.815-70,ativo,gerente,23/11/2010,,SP Capital Leste/Oeste_85
+255,Alexandre,Peixoto,698.243.501-60,não ativo,vendedor,05/03/2020,03/12/2022,SP Capital Leste/Oeste_85
+525,Fernando,da Paz,408.627.935-56,não ativo,vendedor,27/09/2018,04/12/2023,SP Capital Leste/Oeste_89
+347,Francisco,Dias,378.201.596-77,ativo,vendedor,28/03/2019,,SP Capital Leste/Oeste_89
+242,Isadora,Garcia,894.217.530-97,ativo,vendedor,27/11/2002,,SP Capital Leste/Oeste_89
+222,Pedro,Nunes,463.159.072-61,ativo,gerente,13/08/2014,,SP Capital Leste/Oeste_89
+576,Otto,Moreira,672.140.859-76,ativo,vendedor,21/08/2009,,SP Capital Leste/Oeste_89
+69,Lunna,Souza,381.956.420-98,ativo,vendedor,28/08/2021,,SP Capital Leste/Oeste_91
+778,Ana Vitória,Cirino,691.708.532-40,ativo,gerente,16/09/2007,,SP Capital Leste/Oeste_91
+939,Luiz Henrique,da Costa,768.431.592-73,ativo,vendedor,02/03/2015,,SP Capital Leste/Oeste_91
+53,Maria Liz,Albuquerque,638.249.051-24,ativo,vendedor,27/09/2014,,SP Capital Leste/Oeste_91
+928,Arthur Gabriel,da Cruz,345.791.268-82,ativo,vendedor,02/06/2010,,SP Capital Leste/Oeste_93
+781,Rebeca,Nunes,634.789.520-00,ativo,gerente,15/03/2008,,SP Capital Leste/Oeste_93
+613,Asafe,Farias,731.564.982-46,ativo,vendedor,22/07/2014,,SP Capital Leste/Oeste_93
+830,Kaique,Correia,657.032.498-56,ativo,vendedor,17/07/2014,,SP Capital Leste/Oeste_93
+377,Lorenzo,Sampaio,597.683.420-56,não ativo,vendedor,21/12/2016,04/10/2018,SP Capital Leste/Oeste_93
+396,Clarice,Barbosa,250.683.149-51,ativo,gerente,13/10/2011,,SP Capital Leste/Oeste_97
+348,Pedro Miguel,Brito,467.521.903-99,ativo,vendedor,02/06/2018,,SP Capital Leste/Oeste_97
+916,Liam,da Cunha,638.425.709-29,ativo,vendedor,03/05/2000,,SP Capital Leste/Oeste_97
+499,Brayan,da Costa,742.906.183-40,ativo,vendedor,08/04/2008,,SP Capital Leste/Oeste_97
+721,Mirella,Sales,942.017.685-11,não ativo,vendedor,07/02/2008,28/01/2013,SP Capital Leste/Oeste_97
+291,Sarah,Dias,417.805.629-85,ativo,vendedor,17/03/2009,,SP Capital Sul_10
+593,Apollo,Câmara,386.940.157-57,ativo,vendedor,28/05/2023,,SP Capital Sul_10
+602,Anthony Gabriel,Ribeiro,839.756.204-47,ativo,gerente,20/11/2021,,SP Capital Sul_10
+42,Oliver,Lima,689.317.052-12,ativo,vendedor,03/10/2023,,SP Capital Sul_10
+759,Ana Beatriz,Camargo,765.384.102-35,ativo,gerente,22/12/2003,,SP Capital Sul_100
+773,Luna,Melo,904.153.276-52,ativo,vendedor,15/03/2015,,SP Capital Sul_100
+402,Maysa,da Mota,971.458.630-57,não ativo,vendedor,30/03/2006,14/01/2020,SP Capital Sul_100
+734,Enrico,Rocha,476.239.805-56,ativo,vendedor,29/01/2020,,SP Capital Sul_100
+537,Rhavi,da Paz,407.189.256-02,ativo,vendedor,13/11/2019,,SP Capital Sul_100
+432,Pedro,Silveira,819.436.072-22,ativo,gerente,07/05/2011,,SP Capital Sul_16
+858,Daniela,da Rosa,967.023.514-61,não ativo,vendedor,28/03/2016,27/12/2022,SP Capital Sul_16
+606,Ravi,da Mata,163.498.572-91,ativo,vendedor,31/08/2012,,SP Capital Sul_16
+899,Lucas Gabriel,Cavalcanti,518.903.472-05,não ativo,vendedor,04/06/2000,08/01/2004,SP Capital Sul_16
+437,Bruno,Moraes,964.185.307-48,ativo,vendedor,11/05/2023,,SP Capital Sul_16
+605,José,Peixoto,321.465.890-51,ativo,vendedor,08/12/2008,,SP Capital Sul_16
+480,João Gabriel,Borges,261.598.037-86,ativo,vendedor,23/02/2020,,SP Capital Sul_17
+715,Carlos Eduardo,Caldeira,987.361.205-02,ativo,vendedor,08/01/2023,,SP Capital Sul_17
+160,Maria Helena,Brito,869.175.432-09,ativo,vendedor,21/03/2005,,SP Capital Sul_17
+847,Kaique,da Conceição,835.041.627-08,ativo,gerente,13/06/2007,,SP Capital Sul_17
+558,Ana Luiza,Nogueira,539.210.748-60,ativo,gerente,25/06/2016,,SP Capital Sul_18
+812,Benjamin,Carvalho,708.315.492-97,ativo,vendedor,16/11/2024,,SP Capital Sul_18
+239,Bruna,Melo,735.816.924-73,ativo,vendedor,20/09/2022,,SP Capital Sul_18
+554,Caleb,Cavalcanti,125.346.089-24,ativo,vendedor,30/05/2000,,SP Capital Sul_18
+578,Lucas,da Cruz,249.861.730-22,não ativo,vendedor,25/07/2004,12/01/2024,SP Capital Sul_19
+460,Bryan,Alves,674.293.518-91,não ativo,vendedor,09/04/2003,06/08/2017,SP Capital Sul_19
+958,Marcos Vinicius,Nunes,269.183.574-09,ativo,vendedor,08/05/2007,,SP Capital Sul_19
+790,Ísis,da Costa,279.684.013-13,ativo,gerente,04/08/2022,,SP Capital Sul_19
+190,João,Pinto,902.148.573-79,ativo,vendedor,04/01/2010,,SP Capital Sul_19
+491,Nicole,Câmara,796.541.032-06,ativo,vendedor,01/05/2018,,SP Capital Sul_19
+409,Mariane,Pacheco,459.328.706-56,ativo,vendedor,07/12/2013,,SP Capital Sul_20
+940,Valentina,da Mota,951.284.037-50,ativo,vendedor,28/08/2022,,SP Capital Sul_20
+232,Cecília,Cassiano,370.259.468-00,ativo,gerente,15/08/2024,,SP Capital Sul_20
+114,Isaac,Pires,869.543.017-01,ativo,vendedor,13/07/2009,,SP Capital Sul_20
+96,Davi Lucas,Cavalcante,872.439.160-31,ativo,vendedor,08/09/2020,,SP Capital Sul_23
+521,Maria Fernanda,da Luz,189.420.735-14,ativo,vendedor,16/03/2011,,SP Capital Sul_23
+228,José,Albuquerque,832.746.190-78,ativo,vendedor,21/11/2003,,SP Capital Sul_23
+740,Léo,Farias,304.591.762-34,ativo,gerente,03/12/2024,,SP Capital Sul_23
+17,Rodrigo,Rodrigues,236.571.984-82,não ativo,vendedor,14/12/2011,19/08/2024,SP Capital Sul_29
+398,Gustavo,Alves,149.867.032-69,ativo,vendedor,11/03/2000,,SP Capital Sul_29
+186,Pedro Lucas,Farias,021.569.387-68,ativo,vendedor,01/08/2001,,SP Capital Sul_29
+1,Fernanda,Santos,839.740.615-84,ativo,gerente,05/07/2023,,SP Capital Sul_29
+374,Fernando,Nunes,795.618.243-37,ativo,vendedor,14/04/2009,,SP Capital Sul_29
+559,Otávio,Silva,825.790.413-97,ativo,gerente,28/07/2001,,SP Capital Sul_3
+1000,Ravi Lucca,Barbosa,498.750.631-93,ativo,vendedor,16/07/2020,,SP Capital Sul_3
+745,Miguel,Vargas,645.392.180-42,ativo,vendedor,01/05/2007,,SP Capital Sul_3
+359,Pedro,Pires,248.507.396-10,ativo,vendedor,15/04/2004,,SP Capital Sul_3
+59,Marcelo,da Mota,305.297.614-16,não ativo,vendedor,15/08/2015,08/04/2021,SP Capital Sul_30
+445,Bruno,Garcia,508.673.192-59,ativo,vendedor,30/10/2001,,SP Capital Sul_30
+711,Rebeca,Barros,789.236.415-37,ativo,gerente,22/06/2009,,SP Capital Sul_30
+325,Ísis,Albuquerque,204.735.619-99,ativo,vendedor,23/11/2001,,SP Capital Sul_30
+420,Augusto,Machado,034.859.721-50,ativo,vendedor,03/07/2003,,SP Capital Sul_30
+418,Rafaela,Duarte,698.530.712-40,ativo,vendedor,01/07/2017,,SP Capital Sul_31
+99,Aylla,Cirino,582.013.976-30,ativo,vendedor,26/09/2006,,SP Capital Sul_31
+682,Esther,Pinto,651.493.820-51,ativo,vendedor,07/05/2009,,SP Capital Sul_31
+880,Murilo,Farias,637.504.219-43,ativo,gerente,14/04/2001,,SP Capital Sul_31
+675,Samuel,Rodrigues,148.956.237-00,não ativo,vendedor,30/10/2014,03/11/2016,SP Capital Sul_37
+334,Nathan,Fonseca,578.923.146-28,não ativo,vendedor,24/07/2008,17/04/2023,SP Capital Sul_37
+551,Thomas,Barros,086.521.973-77,ativo,vendedor,20/11/2020,,SP Capital Sul_37
+678,Erick,Aparecida,386.109.452-51,ativo,vendedor,01/02/2023,,SP Capital Sul_37
+435,Apollo,Silva,901.536.487-75,ativo,vendedor,28/02/2006,,SP Capital Sul_37
+12,Ana,Aparecida,207.691.853-12,ativo,gerente,25/12/2004,,SP Capital Sul_37
+226,Luan,Aparecida,180.236.459-51,ativo,vendedor,01/08/2018,,SP Capital Sul_46
+758,Bento,Pimenta,245.076.389-92,ativo,vendedor,08/11/2016,,SP Capital Sul_46
+596,Liam,Cunha,608.719.352-95,ativo,vendedor,15/08/2018,,SP Capital Sul_46
+211,João Miguel,Fernandes,134.097.285-97,ativo,gerente,07/05/2022,,SP Capital Sul_46
+980,Cauã,Nunes,198.507.426-58,ativo,vendedor,28/01/2015,,SP Capital Sul_47
+458,Nina,Moraes,429.736.108-69,ativo,vendedor,27/08/2001,,SP Capital Sul_47
+105,Thales,da Mata,978.012.456-01,ativo,vendedor,07/05/2018,,SP Capital Sul_47
+562,João Guilherme,Mendes,486.920.573-47,não ativo,vendedor,19/08/2003,21/08/2012,SP Capital Sul_47
+403,Alexia,Pacheco,271.680.593-86,ativo,gerente,11/02/2022,,SP Capital Sul_47
+218,Ana Lívia,Barros,740.896.125-94,ativo,vendedor,31/07/2015,,SP Capital Sul_5
+655,Luiz Gustavo,Fonseca,064.857.293-56,ativo,gerente,02/03/2001,,SP Capital Sul_5
+612,Thomas,Campos,743.925.168-73,ativo,vendedor,21/01/2006,,SP Capital Sul_5
+395,Arthur Miguel,Souza,856.937.140-39,ativo,vendedor,06/07/2024,,SP Capital Sul_5
+370,Luiz Miguel,Viana,496.302.185-42,não ativo,vendedor,23/06/2001,02/08/2021,SP Capital Sul_5
+198,José,Pastor,386.952.140-60,ativo,vendedor,01/04/2019,,SP Capital Sul_51
+501,Nicole,Novais,691.270.843-96,ativo,vendedor,09/05/2021,,SP Capital Sul_51
+150,Maitê,Oliveira,135.790.824-50,ativo,gerente,18/03/2008,,SP Capital Sul_51
+620,Henry,Câmara,564.927.380-47,ativo,vendedor,02/06/2010,,SP Capital Sul_51
+365,Laís,Pacheco,956.083.174-75,ativo,gerente,13/02/2015,,SP Capital Sul_56
+797,Danilo,Cavalcanti,327.918.506-86,ativo,vendedor,08/09/2017,,SP Capital Sul_56
+265,Dante,Freitas,069.584.213-70,ativo,vendedor,26/06/2006,,SP Capital Sul_56
+585,Vinicius,Araújo,035.164.728-71,ativo,vendedor,21/09/2022,,SP Capital Sul_56
+571,Apollo,Nunes,758.029.641-11,ativo,vendedor,22/09/2017,,SP Capital Sul_57
+512,Olívia,da Rosa,296.534.178-19,ativo,vendedor,08/12/2014,,SP Capital Sul_57
+271,Vitória,Sales,659.102.438-70,ativo,vendedor,16/11/2018,,SP Capital Sul_57
+77,José Miguel,Gonçalves,573.096.248-74,ativo,gerente,05/02/2013,,SP Capital Sul_57
+641,Vitória,Dias,651.402.873-07,não ativo,vendedor,05/06/2014,23/04/2015,SP Capital Sul_59
+176,Bento,Vieira,908.372.645-29,ativo,gerente,31/03/2014,,SP Capital Sul_59
+743,Anthony Gabriel,Moraes,560.372.419-61,ativo,vendedor,07/03/2024,,SP Capital Sul_59
+877,Maria Isis,da Rocha,170.852.396-03,ativo,vendedor,16/05/2013,,SP Capital Sul_59
+285,Gael Henrique,das Neves,512.639.048-15,ativo,vendedor,03/01/2021,,SP Capital Sul_59
+637,Luan,Lopes,486.927.305-56,ativo,vendedor,10/11/2009,,SP Capital Sul_6
+22,Marina,Marques,819.540.267-49,ativo,vendedor,29/04/2023,,SP Capital Sul_6
+597,Elisa,Alves,269.148.537-46,ativo,vendedor,06/08/2013,,SP Capital Sul_6
+344,Caleb,Pastor,873.146.520-07,ativo,gerente,27/06/2014,,SP Capital Sul_6
+323,Sophie,Ramos,860.127.534-62,ativo,gerente,21/11/2021,,SP Capital Sul_60
+214,Ana Laura,Gonçalves,318.524.907-05,ativo,vendedor,30/07/2002,,SP Capital Sul_60
+194,Eduardo,da Rocha,903.651.827-02,ativo,vendedor,03/06/2012,,SP Capital Sul_60
+496,Caleb,Mendes,896.427.531-46,ativo,vendedor,30/01/2008,,SP Capital Sul_60
+267,Breno,Porto,649.350.271-34,ativo,vendedor,11/10/2010,,SP Capital Sul_64
+720,Maria,Cassiano,021.674.589-67,ativo,vendedor,10/05/2001,,SP Capital Sul_64
+828,Levi,Câmara,560.138.947-01,ativo,vendedor,18/07/2012,,SP Capital Sul_64
+305,Alexandre,das Neves,049.251.876-94,ativo,gerente,27/05/2005,,SP Capital Sul_64
+16,Oliver,Silveira,873.145.092-04,ativo,gerente,17/05/2002,,SP Capital Sul_67
+158,Maria,Monteiro,495.263.817-00,ativo,vendedor,23/08/2020,,SP Capital Sul_67
+251,José Miguel,da Mata,684.192.507-67,ativo,vendedor,06/12/2003,,SP Capital Sul_67
+270,Amanda,Sales,264.730.851-90,ativo,vendedor,31/05/2020,,SP Capital Sul_67
+153,Ana Clara,Andrade,941.328.756-28,ativo,vendedor,07/11/2002,,SP Capital Sul_74
+561,Sophia,Jesus,749.526.180-30,ativo,vendedor,08/08/2006,,SP Capital Sul_74
+410,Ágatha,Lima,856.341.297-37,ativo,gerente,05/11/2013,,SP Capital Sul_74
+162,Emilly,Pinto,960.241.835-42,ativo,vendedor,19/01/2000,,SP Capital Sul_74
+817,Nicole,Fogaça,945.172.083-97,ativo,gerente,23/05/2024,,SP Capital Sul_79
+888,Gabrielly,Vargas,269.783.150-95,ativo,vendedor,11/03/2011,,SP Capital Sul_79
+163,Vicente,Almeida,490.513.628-89,ativo,vendedor,23/10/2024,,SP Capital Sul_79
+74,Isaque,Correia,095.463.182-05,ativo,vendedor,26/02/2022,,SP Capital Sul_79
+876,Kevin,Almeida,190.453.628-05,não ativo,vendedor,22/04/2004,27/01/2015,SP Capital Sul_79
+811,Brayan,Sousa,597.012.368-40,ativo,vendedor,15/10/2001,,SP Capital Sul_80
+941,Breno,Caldeira,960.345.728-00,ativo,vendedor,12/01/2021,,SP Capital Sul_80
+671,Bryan,Oliveira,651.829.734-46,ativo,gerente,03/11/2015,,SP Capital Sul_80
+520,Bruno,Novais,906.834.725-00,ativo,vendedor,12/04/2018,,SP Capital Sul_80
+933,Gael Henrique,Sampaio,359.168.420-15,ativo,vendedor,18/11/2019,,SP Capital Sul_84
+652,Caleb,Cirino,276.135.809-03,ativo,vendedor,18/04/2004,,SP Capital Sul_84
+2,Matteo,da Paz,851.273.609-77,ativo,vendedor,03/02/2010,,SP Capital Sul_84
+136,Bryan,Guerra,703.968.154-48,ativo,gerente,04/10/2016,,SP Capital Sul_84
+648,Maria Clara,Fernandes,427.659.380-83,ativo,vendedor,30/10/2007,,SP Capital Sul_87
+9,Maya,Almeida,327.508.194-23,ativo,vendedor,12/09/2000,,SP Capital Sul_87
+767,Bernardo,Fonseca,798.426.135-00,ativo,gerente,25/11/2014,,SP Capital Sul_87
+768,Leonardo,Cirino,839.742.516-00,ativo,vendedor,04/10/2014,,SP Capital Sul_87
+771,Davi,Silva,497.385.201-50,ativo,vendedor,01/10/2009,,SP Capital Sul_9
+427,Bianca,Macedo,132.548.069-05,não ativo,vendedor,01/09/2011,01/10/2016,SP Capital Sul_9
+483,Luiza,Peixoto,046.795.281-76,ativo,gerente,16/09/2018,,SP Capital Sul_9
+457,Bruna,Siqueira,135.802.476-62,ativo,vendedor,10/11/2008,,SP Capital Sul_9
+902,Heloisa,Porto,714.029.563-80,ativo,vendedor,28/04/2008,,SP Capital Sul_9
+742,Maria Cecília,da Costa,841.953.207-04,ativo,gerente,11/04/2024,,SP Capital Sul_90
+490,Sarah,Guerra,694.015.832-42,ativo,vendedor,07/06/2021,,SP Capital Sul_90
+890,Heitor,Araújo,065.974.138-57,ativo,vendedor,23/08/2000,,SP Capital Sul_90
+894,Isabel,Gonçalves,857.601.924-85,ativo,vendedor,15/05/2022,,SP Capital Sul_90
+476,Isaac,Moreira,203.648.975-38,ativo,vendedor,11/04/2016,,SP Capital Sul_93
+449,Marcela,da Costa,034.792.685-10,ativo,vendedor,25/04/2024,,SP Capital Sul_93
+389,Esther,Mendonça,940.236.578-83,ativo,vendedor,10/05/2014,,SP Capital Sul_93
+770,Arthur Miguel,da Rosa,829.514.630-06,ativo,gerente,03/11/2012,,SP Capital Sul_93
+394,Yan,Pires,506.391.478-01,ativo,vendedor,24/08/2012,,SP Capital Sul_97
+547,Benjamin,Mendonça,572.340.196-34,ativo,vendedor,15/10/2004,,SP Capital Sul_97
+433,Gustavo Henrique,da Cruz,302.145.796-70,ativo,vendedor,16/07/2012,,SP Capital Sul_97
+66,Heloisa,Cunha,379.248.601-69,ativo,gerente,22/08/2015,,SP Capital Sul_97
+183,Thales,Sousa,850.761.934-75,ativo,vendedor,01/06/2015,,SP Interior_100
+393,Breno,Duarte,372.064.518-53,ativo,vendedor,13/12/2022,,SP Interior_100
+147,Ana Luiza,Andrade,748.639.120-13,ativo,gerente,10/08/2005,,SP Interior_100
+76,Otávio,Fernandes,915.263.807-30,ativo,vendedor,10/09/2024,,SP Interior_100
+230,Vinícius,Guerra,490.573.281-60,ativo,gerente,09/08/2001,,SP Interior_11
+61,Cauê,Freitas,140.856.329-06,ativo,vendedor,29/09/2024,,SP Interior_11
+611,Thiago,Lima,980.347.516-93,ativo,vendedor,08/01/2002,,SP Interior_11
+341,Alice,Albuquerque,695.324.071-70,ativo,vendedor,26/05/2005,,SP Interior_11
+465,Maria Sophia,Silveira,172.498.306-78,ativo,vendedor,25/05/2022,,SP Interior_13
+82,Elisa,Fonseca,473.562.089-38,ativo,gerente,19/02/2000,,SP Interior_13
+455,Calebe,Viana,932.846.570-29,ativo,vendedor,12/06/2005,,SP Interior_13
+646,Yasmin,Melo,182.053.697-12,ativo,vendedor,15/03/2017,,SP Interior_13
+835,Mariane,Almeida,261.789.304-96,não ativo,vendedor,27/10/2006,09/10/2023,SP Interior_13
+3,Elisa,Albuquerque,928.350.761-40,não ativo,vendedor,02/09/2013,30/08/2020,SP Interior_14
+340,Aurora,Vieira,178.546.920-76,ativo,vendedor,06/11/2012,,SP Interior_14
+749,Anna Liz,da Rocha,953.764.028-00,ativo,vendedor,18/07/2020,,SP Interior_14
+177,Yago,Aragão,615.837.420-26,ativo,vendedor,02/09/2001,,SP Interior_14
+281,Isaque,da Paz,349.028.715-05,ativo,gerente,30/10/2008,,SP Interior_14
+41,Joaquim,Fogaça,925.748.603-65,ativo,vendedor,28/09/2020,,SP Interior_16
+504,Ana Liz,Melo,657.132.890-95,não ativo,vendedor,28/06/2002,20/02/2005,SP Interior_16
+406,João Guilherme,Almeida,376.450.129-43,ativo,vendedor,21/06/2000,,SP Interior_16
+468,Yago,Lopes,203.874.196-40,ativo,vendedor,12/12/2003,,SP Interior_16
+639,Bruna,Gonçalves,749.320.516-70,ativo,gerente,02/05/2013,,SP Interior_16
+80,Francisco,Pereira,416.852.079-01,ativo,gerente,07/01/2017,,SP Interior_17
+454,Luiz Gustavo,Cardoso,265.391.780-77,ativo,vendedor,07/08/2002,,SP Interior_17
+976,João Gabriel,da Paz,694.132.807-03,ativo,vendedor,19/10/2019,,SP Interior_17
+853,Vitor Hugo,Costela,690.815.324-05,ativo,vendedor,14/07/2021,,SP Interior_17
+658,Ana Júlia,Cassiano,641.853.207-44,ativo,vendedor,30/08/2023,,SP Interior_20
+397,Marina,Pereira,019.834.725-14,não ativo,vendedor,25/02/2022,02/12/2023,SP Interior_20
+914,Valentina,Viana,643.270.158-90,ativo,vendedor,09/01/2003,,SP Interior_20
+633,Enzo,Sousa,872.943.516-19,ativo,gerente,13/11/2005,,SP Interior_20
+735,Henry Gabriel,Duarte,176.283.054-07,ativo,vendedor,02/03/2017,,SP Interior_20
+867,Francisco,Costa,193.704.628-13,ativo,gerente,02/05/2017,,SP Interior_21
+704,Sophia,Siqueira,153.980.746-01,ativo,vendedor,03/08/2013,,SP Interior_21
+947,Maria Júlia,da Cunha,432.586.079-74,ativo,vendedor,03/11/2020,,SP Interior_21
+893,Antônio,Martins,370.465.892-83,ativo,vendedor,15/07/2019,,SP Interior_21
+151,Gabriela,Nunes,015.738.924-32,ativo,vendedor,09/12/2024,,SP Interior_23
+650,Eduarda,Sales,782.943.056-00,não ativo,vendedor,08/11/2014,22/02/2023,SP Interior_23
+439,Davi Luiz,Melo,675.904.123-25,ativo,gerente,02/03/2005,,SP Interior_23
+663,Lorenzo,Costela,976.480.123-40,ativo,vendedor,04/06/2005,,SP Interior_23
+120,Zoe,Garcia,602.485.931-70,não ativo,vendedor,13/11/2007,26/01/2024,SP Interior_23
+378,Joana,Pacheco,021.748.369-04,ativo,vendedor,20/01/2005,,SP Interior_23
+350,João Guilherme,Costa,079.316.284-03,ativo,vendedor,16/06/2016,,SP Interior_30
+94,Mirella,Garcia,283.164.709-69,ativo,gerente,26/11/2003,,SP Interior_30
+288,Sara,Santos,480.127.369-69,ativo,vendedor,11/09/2005,,SP Interior_30
+516,Miguel,Leão,931.506.874-20,ativo,vendedor,16/10/2011,,SP Interior_30
+287,Benicio,Camargo,901.327.546-06,ativo,vendedor,04/10/2015,,SP Interior_32
+411,Heitor,Cunha,036.914.278-04,ativo,vendedor,24/03/2006,,SP Interior_32
+253,Julia,Cirino,736.201.948-31,ativo,gerente,13/07/2022,,SP Interior_32
+473,Antônio,Araújo,201.584.763-44,ativo,vendedor,05/03/2005,,SP Interior_32
+333,Breno,Barbosa,153.069.247-43,ativo,gerente,14/01/2010,,SP Interior_33
+886,Clara,Duarte,150.846.973-39,ativo,vendedor,06/05/2020,,SP Interior_33
+329,Mariane,Souza,796.103.528-12,ativo,vendedor,15/12/2019,,SP Interior_33
+757,Carolina,Lopes,216.459.370-70,ativo,vendedor,28/05/2017,,SP Interior_33
+481,Maria Cecília,das Neves,156.904.873-84,ativo,vendedor,24/01/2009,,SP Interior_36
+103,Mariah,Silveira,375.028.491-14,ativo,gerente,14/07/2019,,SP Interior_36
+922,Dante,da Mota,592.843.607-65,ativo,vendedor,19/03/2013,,SP Interior_36
+353,Heloisa,Pinto,462.139.875-09,ativo,vendedor,01/12/2024,,SP Interior_36
+224,Nina,Lima,289.075.631-95,ativo,vendedor,29/10/2011,,SP Interior_39
+631,Luigi,Pacheco,847.569.210-94,ativo,gerente,22/09/2005,,SP Interior_39
+592,Maria,da Luz,271.358.690-95,ativo,vendedor,31/03/2013,,SP Interior_39
+584,Ana,da Mata,402.789.135-04,ativo,vendedor,13/06/2003,,SP Interior_39
+954,Benício,Pinto,658.309.217-40,ativo,vendedor,03/01/2015,,SP Interior_42
+524,Pedro Miguel,Freitas,049.231.578-79,ativo,vendedor,16/04/2001,,SP Interior_42
+549,Leonardo,Costa,549.610.723-70,ativo,gerente,17/05/2021,,SP Interior_42
+381,Juliana,Peixoto,912.408.637-13,ativo,vendedor,11/11/2002,,SP Interior_42
+448,João Guilherme,Freitas,638.451.072-35,ativo,gerente,26/06/2002,,SP Interior_43
+762,Emanuel,Araújo,651.329.874-19,ativo,vendedor,27/04/2022,,SP Interior_43
+619,Marcos Vinicius,Fonseca,927.386.514-37,ativo,vendedor,29/01/2008,,SP Interior_43
+506,Clarice,da Rosa,981.547.032-97,ativo,vendedor,15/04/2024,,SP Interior_43
+57,Cauê,Novais,632.057.814-90,ativo,gerente,26/05/2022,,SP Interior_44
+717,Emanuella,Jesus,586.243.107-17,ativo,vendedor,28/08/2012,,SP Interior_44
+943,Renan,Moreira,039.417.256-61,ativo,vendedor,19/08/2017,,SP Interior_44
+127,Clara,Porto,615.908.274-49,ativo,vendedor,29/04/2017,,SP Interior_44
+854,Lorenzo,Martins,136.582.074-26,ativo,vendedor,20/05/2016,,SP Interior_61
+548,Alícia,Barbosa,713.459.862-46,ativo,gerente,19/10/2018,,SP Interior_61
+679,Ana Laura,Albuquerque,873.541.629-73,não ativo,vendedor,12/10/2021,17/05/2023,SP Interior_61
+254,José Miguel,Silveira,205.483.967-10,ativo,vendedor,25/09/2014,,SP Interior_61
+134,Helena,Cavalcanti,840.297.561-58,ativo,vendedor,01/04/2017,,SP Interior_61
+885,Júlia,Sousa,720.198.346-69,ativo,vendedor,03/09/2006,,SP Interior_64
+441,Stella,Siqueira,491.536.827-00,ativo,vendedor,02/08/2011,,SP Interior_64
+343,José,Barbosa,419.670.325-99,ativo,vendedor,01/04/2002,,SP Interior_64
+741,Ana Lívia,Sousa,807.594.623-56,não ativo,vendedor,09/12/2004,11/03/2015,SP Interior_64
+296,Nina,Pastor,857.410.396-93,ativo,gerente,27/09/2007,,SP Interior_64
+659,Maria Helena,Albuquerque,197.538.426-19,ativo,gerente,28/04/2008,,SP Interior_65
+999,Allana,Sampaio,273.158.064-07,ativo,vendedor,06/03/2020,,SP Interior_65
+727,Francisco,Barros,203.864.579-56,ativo,vendedor,13/03/2012,,SP Interior_65
+654,Luna,Pacheco,529.637.814-82,ativo,vendedor,04/01/2022,,SP Interior_65
+777,Otávio,Leão,408.217.593-88,ativo,gerente,27/02/2004,,SP Interior_70
+382,Valentina,Machado,469.703.125-34,ativo,vendedor,08/08/2007,,SP Interior_70
+668,Felipe,Melo,546.392.108-33,ativo,vendedor,02/08/2024,,SP Interior_70
+466,Esther,Pimenta,145.230.786-53,ativo,vendedor,07/08/2014,,SP Interior_70
+322,Calebe,Martins,739.406.512-06,ativo,vendedor,24/02/2002,,SP Interior_72
+52,Aylla,da Cunha,017.435.692-70,ativo,vendedor,24/02/2003,,SP Interior_72
+238,Mathias,Araújo,046.932.857-65,ativo,vendedor,12/06/2013,,SP Interior_72
+464,Valentina,Barbosa,084.637.529-00,ativo,gerente,19/09/2002,,SP Interior_72
+629,Calebe,Andrade,428.176.539-55,ativo,gerente,14/08/2017,,SP Interior_75
+829,Alana,da Mata,540.627.398-10,ativo,vendedor,29/01/2005,,SP Interior_75
+400,Eduarda,Guerra,065.412.398-51,ativo,vendedor,20/05/2008,,SP Interior_75
+248,Pedro Lucas,Rezende,106.957.832-03,ativo,vendedor,28/11/2007,,SP Interior_75
+538,Eloah,Fonseca,607.314.582-90,não ativo,vendedor,26/07/2008,17/10/2017,SP Interior_76
+54,Laura,Oliveira,013.942.758-97,ativo,vendedor,02/12/2016,,SP Interior_76
+601,Ana Julia,da Conceição,543.762.198-19,ativo,vendedor,23/01/2004,,SP Interior_76
+244,André,Brito,596.042.317-07,ativo,vendedor,17/07/2018,,SP Interior_76
+991,Yuri,Leão,137.925.604-61,ativo,gerente,09/12/2011,,SP Interior_76
+879,Maria Sophia,Cavalcanti,169.803.427-03,ativo,vendedor,14/11/2001,,SP Interior_8
+851,Antonella,Casa Grande,985.427.013-05,ativo,vendedor,24/05/2020,,SP Interior_8
+219,Maria Liz,Vargas,049.567.183-57,ativo,vendedor,01/10/2007,,SP Interior_8
+972,Ana Cecília,Montenegro,406.783.951-01,ativo,gerente,05/07/2021,,SP Interior_8
+459,Clarice,Aragão,572.143.698-00,não ativo,vendedor,27/06/2015,12/07/2017,SP Interior_82
+997,Asafe,Sales,458.673.092-74,ativo,vendedor,18/09/2005,,SP Interior_82
+948,Valentina,Lopes,603.985.147-39,ativo,vendedor,11/07/2018,,SP Interior_82
+345,Isabel,Mendes,816.957.432-37,ativo,vendedor,01/09/2016,,SP Interior_82
+960,Ana Luiza,Aragão,956.832.047-47,ativo,gerente,28/04/2010,,SP Interior_82
+34,Maria Helena,das Neves,425.671.039-61,ativo,vendedor,17/03/2012,,SP Interior_83
+542,João Felipe,Andrade,702.143.986-50,ativo,vendedor,11/05/2015,,SP Interior_83
+739,Vinícius,da Paz,028.615.394-70,ativo,gerente,23/03/2006,,SP Interior_83
+277,Isaac,Aparecida,528.670.314-35,ativo,vendedor,05/11/2015,,SP Interior_83
+962,Heloisa,Santos,526.837.491-55,não ativo,vendedor,07/12/2017,02/09/2019,SP Interior_84
+544,Lorena,Lopes,864.129.035-42,ativo,vendedor,24/12/2000,,SP Interior_84
+913,Hellena,Guerra,593.016.782-68,ativo,gerente,16/02/2021,,SP Interior_84
+604,Breno,da Cruz,163.428.905-60,ativo,vendedor,24/06/2010,,SP Interior_84
+786,Anthony,Teixeira,712.495.083-04,ativo,vendedor,26/04/2021,,SP Interior_84
+39,Nicole,da Conceição,126.758.940-01,ativo,vendedor,27/05/2024,,SP Interior_87
+895,Joaquim,Ramos,139.062.874-40,ativo,gerente,04/07/2015,,SP Interior_87
+617,Gael,Macedo,285.731.964-91,ativo,vendedor,13/08/2017,,SP Interior_87
+419,Erick,Nascimento,735.816.920-40,ativo,vendedor,26/02/2013,,SP Interior_87
+614,Gabriela,Campos,502.674.931-34,não ativo,vendedor,26/02/2011,23/02/2021,SP Interior_87
+487,Cecilia,Martins,409.753.612-52,ativo,vendedor,20/08/2023,,SP Interior_9
+32,Lívia,Rodrigues,732.910.645-34,ativo,vendedor,21/02/2010,,SP Interior_9
+221,Luiz Gustavo,Sampaio,173.806.945-10,ativo,vendedor,10/07/2022,,SP Interior_9
+623,Júlia,Rios,348.726.510-90,ativo,gerente,07/09/2002,,SP Interior_9
+709,Carlos Eduardo,Barros,679.083.415-00,ativo,gerente,08/08/2009,,SP Interior_90
+72,Yuri,Oliveira,894.653.210-60,ativo,vendedor,16/04/2017,,SP Interior_90
+64,Augusto,das Neves,274.905.138-04,ativo,vendedor,15/01/2014,,SP Interior_90
+844,Lara,da Paz,163.842.750-07,não ativo,vendedor,21/11/2014,30/10/2024,SP Interior_90
+857,Isabel,Moraes,068.172.394-78,ativo,vendedor,21/06/2017,,SP Interior_90
+180,Aurora,da Paz,153.467.082-35,ativo,vendedor,27/09/2000,,SP Interior_91
+266,Bárbara,Fernandes,738.549.126-09,ativo,vendedor,10/05/2009,,SP Interior_91
+182,Heitor,Câmara,412.378.956-00,ativo,vendedor,18/07/2003,,SP Interior_91
+482,Maria Julia,Fernandes,694.120.857-02,ativo,gerente,13/02/2012,,SP Interior_91
+387,João Felipe,Sales,258.017.469-94,ativo,vendedor,29/12/2010,,SP Interior_92
+104,Manuela,Souza,702.438.195-79,ativo,vendedor,02/03/2010,,SP Interior_92
+859,João Pedro,Câmara,635.807.492-00,ativo,vendedor,14/05/2004,,SP Interior_92
+212,Rafael,Mendes,203.718.946-03,ativo,gerente,16/09/2019,,SP Interior_92
+719,Francisco,Sousa,940.378.526-83,não ativo,vendedor,11/03/2019,09/04/2022,SP Interior_93
+625,Sara,Casa Grande,741.836.095-93,ativo,gerente,02/12/2002,,SP Interior_93
+316,Rebeca,da Luz,231.698.507-68,ativo,vendedor,17/07/2014,,SP Interior_93
+294,Bryan,Abreu,792.501.364-80,ativo,vendedor,14/12/2019,,SP Interior_93
+272,Gael Henrique,Lopes,059.672.438-10,ativo,vendedor,05/09/2003,,SP Interior_93
+832,Valentim,Moura,267.481.953-73,não ativo,vendedor,10/04/2010,30/12/2017,SP Interior_99
+732,Benjamin,Sampaio,639.120.548-51,ativo,gerente,05/05/2005,,SP Interior_99
+408,Cecília,Pacheco,218.579.640-20,ativo,vendedor,25/01/2014,,SP Interior_99
+755,Ryan,Pacheco,051.978.342-50,ativo,vendedor,27/11/2003,,SP Interior_99
+135,Bárbara,Freitas,643.107.285-53,ativo,vendedor,08/10/2023,,SP Interior_99
+627,Francisco,Santos,057.821.936-03,não ativo,vendedor,24/07/2020,06/07/2022,SP Interior_99
